@@ -1,4 +1,4 @@
-import { Pill, Mail, Globe, Github } from 'lucide-react';
+import { Pill, Mail, Globe } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 export default function About() {
