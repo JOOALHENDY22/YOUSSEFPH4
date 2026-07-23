@@ -41,15 +41,16 @@ export default function DrugDetails() {
       setError(false);
       const data = await searchDrugFDA(searchName);
       if (data) {
-        // We will translate these fields dynamically
-        const purpose = data.purpose?.[0] || data.indications_and_usage?.[0] || 'No specific indications listed in the label.';
-        const warnings = data.warnings?.[0] || data.boxed_warning?.[0] || 'No major warnings provided in this label format.';
-        const dosage = data.dosage_and_administration?.[0] || 'Consult a healthcare provider for dosage.';
-        const pregnancy = data.pregnancy?.[0] || 'No specific pregnancy data provided.';
-        const pediatric = data.pediatric_use?.[0] || 'No specific pediatric guidelines provided.';
-        const geriatric = data.geriatric_use?.[0] || 'No specific geriatric guidelines provided.';
-        const contraindications = data.contraindications?.[0] || 'No contraindications listed.';
-        const adverseReactions = data.adverse_reactions?.[0] || 'No adverse reactions listed.';
+        const getField = (val: any) => Array.isArray(val) ? val[0] : (typeof val === 'string' ? val : '');
+
+        const purpose = getField(data.purpose) || getField(data.indications_and_usage) || 'No specific indications listed in the label.';
+        const warnings = getField(data.warnings) || getField(data.boxed_warning) || 'No major warnings provided in this label format.';
+        const dosage = getField(data.dosage_and_administration) || 'Consult a healthcare provider for dosage.';
+        const pregnancy = getField(data.pregnancy) || 'No specific pregnancy data provided.';
+        const pediatric = getField(data.pediatric_use) || 'No specific pediatric guidelines provided.';
+        const geriatric = getField(data.geriatric_use) || 'No specific geriatric guidelines provided.';
+        const contraindications = getField(data.contraindications) || 'No contraindications listed.';
+        const adverseReactions = getField(data.adverse_reactions) || 'No adverse reactions listed.';
 
         setDrugData({
           original: data,

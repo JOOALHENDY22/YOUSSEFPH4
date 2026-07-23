@@ -3,17 +3,31 @@ import axios from 'axios';
 // --- OpenFDA API for Drug Search & Details ---
 const FDA_BASE_URL = 'https://api.fda.gov/drug';
 
+const fetchAIDrugDetails = async (drugName: string) => {
+  try {
+    const res = await axios.post(`${BACKEND_URL}/api/drug-details`, { drugName });
+    if (res.data) {
+      return res.data;
+    }
+    return null;
+  } catch (error) {
+    console.error("AI Drug Details Fetch Error:", error);
+    return null;
+  }
+};
+
 export const searchDrugFDA = async (query: string) => {
   try {
     const res = await axios.get(`${FDA_BASE_URL}/label.json?search=openfda.brand_name:"${query}"+openfda.generic_name:"${query}"&limit=1`);
     if (res.data.results && res.data.results.length > 0) {
       return res.data.results[0];
     }
-    return null;
   } catch (error) {
-    console.error("FDA API Error:", error);
-    return null;
+    console.log("OpenFDA search returned no results, falling back to Gemini AI...");
   }
+
+  // Fallback to AI drug details (handles Egyptian brand names like Antinal, Congestal, etc.)
+  return await fetchAIDrugDetails(query);
 };
 
 const commonEgyptianDrugs = [

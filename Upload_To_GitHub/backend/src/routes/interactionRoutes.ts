@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { checkInteractionsAI, suggestDrugsAI, compareDrugsAI } from '../services/aiService';
+import { checkInteractionsAI, suggestDrugsAI, compareDrugsAI, getDrugDetailsAI } from '../services/aiService';
 
 import fs from 'fs';
 import path from 'path';
@@ -65,6 +65,20 @@ router.post('/compare', async (req, res) => {
   } catch (error: any) {
     console.error(error);
     res.status(500).json({ error: 'Failed to compare drugs' });
+  }
+});
+
+router.post('/drug-details', async (req, res) => {
+  try {
+    const { drugName } = req.body;
+    if (!drugName) {
+      return res.status(400).json({ error: 'Please provide a drugName' });
+    }
+    const data = await getDrugDetailsAI(drugName);
+    res.json(data);
+  } catch (error: any) {
+    console.error(error);
+    res.status(500).json({ error: 'Failed to fetch AI drug details' });
   }
 });
 

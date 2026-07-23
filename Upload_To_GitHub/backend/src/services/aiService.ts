@@ -136,3 +136,45 @@ export const compareDrugsAI = async (drugA: string, drugB: string): Promise<any>
     throw error;
   }
 };
+
+export const getDrugDetailsAI = async (drugName: string): Promise<any> => {
+  if (!API_KEY) throw new Error('API Key missing');
+
+  const model = genAI.getGenerativeModel({ 
+    model: "gemini-3.5-flash-lite",
+    generationConfig: { responseMimeType: "application/json" }
+  });
+
+  const prompt = `
+  You are an expert clinical pharmacist specializing in Egyptian and international pharmaceuticals.
+  Provide detailed medical and clinical information for the drug: "${drugName}".
+  If "${drugName}" is an Egyptian trade/brand name (e.g., Antinal, Congestal, Cetafen, Novaldol, Hibiotic, Brufen, etc.), accurately identify its primary active scientific ingredient, manufacturer, and medical facts.
+
+  Format your response EXACTLY as a valid JSON object with this exact structure:
+  {
+    "openfda": {
+      "generic_name": ["Active Ingredient / Scientific Name in English & Arabic"],
+      "manufacturer_name": ["Manufacturer Name (e.g. Amoun Pharmaceutical)"],
+      "product_type": ["Prescription / OTC"]
+    },
+    "purpose": ["Clear indication summary of what this drug is used for in Arabic."],
+    "indications_and_usage": ["Detailed indications & therapeutic uses in Arabic."],
+    "dosage_and_administration": ["Recommended dosage and how to take it in Arabic."],
+    "warnings": ["Important precautions, warnings, and safety advice in Arabic."],
+    "contraindications": ["Contraindications / conditions when this drug should NOT be used in Arabic."],
+    "adverse_reactions": ["Common and possible side effects in Arabic."],
+    "pregnancy": ["Safety guidelines for pregnant and nursing mothers in Arabic."],
+    "pediatric_use": ["Child dosage safety & pediatric guidelines in Arabic."],
+    "geriatric_use": ["Elderly patient safety guidelines in Arabic."]
+  }
+  `;
+
+  try {
+    const result = await model.generateContent(prompt);
+    const text = await result.response.text();
+    return JSON.parse(text);
+  } catch (error) {
+    console.error("AI Drug Details Error:", error);
+    throw error;
+  }
+};
