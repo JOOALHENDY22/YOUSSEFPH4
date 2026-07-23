@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "search": "Search",
+    "interactions": "Interactions",
+    "compare": "Compare",
+    "favorites": "Favorites",
+    "history": "History",
+    "about": "About"
+  },
+  "home": {
+    "badge": "YMH DRUG CHECK Phase 1 is Live",
+    "title_part1": "Intelligent",
+    "title_highlight": "Pharmacy",
+    "title_part2": "Insights",
+    "description": "The next-generation platform for pharmacy students and professionals to verify drug interactions, check FDA labels, and compare medications instantly.",
+    "search_btn": "Search Drugs Now",
+    "interact_btn": "Check Interactions",
+    "stats": {
+      "drugs_label": "Drugs Database",
+      "interact_label": "Interactions Checked",
+      "pro_label": "Active Professionals",
+      "uptime_label": "Uptime"
+    },
+    "features_title": "Premium Tools for Modern Pharmacy",
+    "features_desc": "Everything you need to make informed, safe clinical decisions powered by advanced data architecture.",
+    "f1_title": "Lightning Fast Search",
+    "f1_desc": "Find any medication instantly with our predictive autocomplete and extensive database.",
+    "f2_title": "Safety First",
+    "f2_desc": "Comprehensive interaction checking with severity levels and clinical management advice.",
+    "f3_title": "AI-Powered Insights",
+    "f3_desc": "Get smart comparisons and alternatives based on patient specific parameters."
+  },
+  "footer": {
+    "rights": "YMH DRUG CHECK. All rights reserved.",
+    "disclaimer": "For educational purposes only. Not a substitute for professional medical advice.",
+    "designed_by": "Designed by Youssef Mohamed"
+  },
+  "creator_banner": {
+    "title": "About the Creator",
+    "created_by": "Created by",
+    "desc": "A pharmacy student at the Egyptian Chinese University (ECU) in Egypt, Faculty of Pharmacy."
+  },
+  "search": {
+    "title": "Find Medications",
+    "subtitle": "Search our comprehensive database of over 50,000 drugs.",
+    "placeholder": "Search by brand or generic name...",
+    "btn_search": "Search",
+    "btn_searching": "Searching...",
+    "recent_title": "Recent Searches",
+    "trending_title": "Trending Right Now",
+    "disclaimer": "Source Disclaimer: All search queries and drug data are securely processed using the official U.S. Food and Drug Administration (OpenFDA API)."
+  },
+  "details": {
+    "back": "Back to Search",
+    "verified": "FDA Verified",
+    "btn_save": "Save",
+    "btn_saved": "Saved",
+    "btn_compare": "Add to Compare",
+    "indications": "Indications & Usage",
+    "warnings": "Important Warnings",
+    "dosage": "Dosage & Administration",
+    "pediatric": "Pediatric Use",
+    "geriatric": "Geriatric Use",
+    "contraindications": "Contraindications",
+    "adverse": "Adverse Reactions",
+    "quick_facts": "Quick Facts",
+    "manufacturer": "Manufacturer",
+    "pregnancy": "Pregnancy",
+    "rx_otc": "Rx/OTC",
+    "check_interact_title": "Check Interactions",
+    "check_interact_desc": "See how this drug interacts with other medications you are taking.",
+    "check_btn": "Check Now",
+    "disclaimer": "Source Disclaimer: The medical data presented on this page is directly fetched from the official U.S. Food and Drug Administration (OpenFDA API)."
+  },
+  "interaction": {
+    "title": "Interaction Checker",
+    "subtitle": "Add two or more medications to check for potential interactions.",
+    "placeholder": "Type a drug name (e.g., Warfarin)...",
+    "btn_add": "Add",
+    "btn_check": "Check Interactions",
+    "btn_checking": "Analyzing interactions...",
+    "no_drugs": "No drugs added yet. Add at least two to check.",
+    "results_title": "Analysis Results",
+    "major": "Major",
+    "minor": "Moderate/Minor",
+    "no_interaction_title": "No Known Interactions Found",
+    "no_interaction_desc": "Based on the NIH database, no major interactions were found between the provided drugs. However, always consult a healthcare professional.",
+    "disclaimer": "Source Disclaimer: Interaction data is dynamically fetched from the U.S. National Library of Medicine (NIH RxNav API)."
+  },
+  "compare": {
+    "title": "Compare Medications",
+    "subtitle": "View a side-by-side comparison of indications, side effects, and clinical parameters to choose the right therapy.",
+    "select": "Select drugs to compare",
+    "btn_view": "View Detailed Clinical Monograph"
+  },
+  "favorites": {
+    "title": "Saved Medications",
+    "btn_view": "View",
+    "no_saved_title": "No saved medications",
+    "no_saved_desc": "You haven't saved any medications yet. Search for a drug and click the save icon.",
+    "btn_search": "Search Drugs"
+  },
+  "history": {
+    "title": "Search History",
+    "btn_clear": "Clear All"
+  },
+  "about": {
+    "title": "About PharmaGuard AI",
+    "subtitle": "Empowering pharmacy professionals with intelligent insights.",
+    "mission_title": "Our Mission",
+    "mission_desc": "PharmaGuard AI was built with a single goal: to provide pharmacy students, pharmacists, and healthcare providers with an intuitive, blazing-fast, and highly accurate tool for drug information and interaction checking.",
+    "connect_title": "Connect With Us"
+  },
+  "notfound": {
+    "title": "Page Not Found",
+    "desc": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "btn_home": "Back to Home",
+    "btn_search": "Search Drugs"
+  }
+}
