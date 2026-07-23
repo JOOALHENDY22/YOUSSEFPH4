@@ -56,7 +56,7 @@ export const fetchDrugSuggestions = async (query: string) => {
   return commonEgyptianDrugs.filter(d => d.toLowerCase().includes(normalizedQuery)).slice(0, 5);
 };
 
-const BACKEND_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const BACKEND_URL = 'https://youssefph-4.vercel.app';
 
 export const fetchDrugComparison = async (drugA: string, drugB: string) => {
   try {
