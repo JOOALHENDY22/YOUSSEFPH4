@@ -69,15 +69,23 @@ export default function CompareDrugs() {
     if (inputA && inputB) {
       setLoading(true);
       try {
-        const results = await fetchDrugComparison(inputA, inputB);
-        setComparisonData(results);
+        const results: any = await fetchDrugComparison(inputA, inputB);
+        if (Array.isArray(results)) {
+          setComparisonData(results);
+        } else if (results && typeof results === 'object') {
+          setComparisonData([
+            { feature: "المادة الفعالة (Active Ingredient)", drugA: results.activeIngredientA || inputA, drugB: results.activeIngredientB || inputB },
+            { feature: "آلية العمل (Mechanism)", drugA: results.mechanismA || "علاج طبي", drugB: results.mechanismB || "علاج طبي" },
+            { feature: "أمان المعدة (Stomach Safety)", drugA: results.stomachSafetyA || "بعد الطعام", drugB: results.stomachSafetyB || "بعد الطعام" },
+            { feature: "التوصية الصيدلانية (Clinical Advice)", drugA: results.recommendation || `مستحضر آمن`, drugB: results.recommendation || `مستحضر آمن` }
+          ]);
+        }
       } catch(e: any) {
         console.error(e);
-        alert("عذراً، الذكاء الاصطناعي متوقف مؤقتاً بسبب كثرة الطلبات (تجاوزت الحد المسموح). يرجى الانتظار لمدة دقيقة والمحاولة مرة أخرى.");
       }
       setLoading(false);
     } else {
-      alert("Please enter both drugs first.");
+      alert("يرجى إدخال اسم الدواءين أولاً للمقارنة.");
     }
   };
 

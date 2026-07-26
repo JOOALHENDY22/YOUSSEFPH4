@@ -118,7 +118,7 @@ export default function SearchDrugs() {
             {t('search.recent_title')}
           </h2>
           <div className="glass-panel overflow-hidden">
-            {(recentSearches.length > 0 ? recentSearches : ['Amoxicillin', 'Lisinopril', 'Omeprazole']).map((drug, i) => (
+            {(recentSearches.length > 0 ? recentSearches : ['Augmentin', 'Panadol', 'Congestal']).map((drug, i) => (
               <div key={i} className="flex items-center justify-between p-4 border-b border-gray-100 dark:border-gray-800 last:border-0 hover:bg-gray-50/50 dark:hover:bg-gray-800/50 transition-colors">
                 <div className="flex items-center text-gray-700 dark:text-gray-300">
                   <Clock className="h-4 w-4 mr-3 rtl:ml-3 rtl:mr-0 text-gray-400" />
@@ -138,7 +138,7 @@ export default function SearchDrugs() {
             {t('search.trending_title')}
           </h2>
           <div className="flex flex-wrap gap-3">
-            {['Atorvastatin', 'Levothyroxine', 'Metformin', 'Amlodipine', 'Albuterol'].map((drug, i) => (
+            {['Antinal', 'Cataflam', 'Cetal', 'Brufen', 'Farcolin', 'Concor'].map((drug, i) => (
               <button 
                 key={i}
                 onClick={() => selectSuggestion(drug)}

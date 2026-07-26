@@ -1,6 +1,9 @@
 {
   "nav": {
     "search": "Search",
+    "alternatives": "Drug Substitutes",
+    "emergency": "Emergency Consult",
+    "scheduled": "Controlled Drugs",
     "interactions": "Interactions",
     "compare": "Compare",
     "favorites": "Favorites",
@@ -110,6 +113,49 @@
     "mission_title": "Our Mission",
     "mission_desc": "PharmaGuard AI was built with a single goal: to provide pharmacy students, pharmacists, and healthcare providers with an intuitive, blazing-fast, and highly accurate tool for drug information and interaction checking.",
     "connect_title": "Connect With Us"
+  },
+  "scheduled": {
+    "badge": "Egyptian Drug Authority (EDA) & MOH Regulations",
+    "title": "Controlled & Scheduled Drugs ⚖️🔒",
+    "subtitle": "Official guidance and drug classification under Egyptian Ministry of Health scheduled substance laws.",
+    "placeholder": "Search drug name or active ingredient (e.g., Tramadol, Lyrica, Xanax)...",
+    "btn_check": "Check",
+    "all_tab": "All Scheduled Drugs",
+    "schedule_1_tab": "🔴 Schedule 1 (Narcotics)",
+    "schedule_2_tab": "🟠 Schedule 2 (Psychotropics)",
+    "eda_notice": "Updated according to Egyptian Drug Authority (EDA) decrees",
+    "active_ingredient": "Active Ingredient:",
+    "dispensing_rules": "Legal Dispensing Regulations (Egyptian MOH):"
+  },
+  "emergency": {
+    "badge": "Emergency Consultation & Acute Symptoms",
+    "title": "Emergency Consultant & Drug Recommender",
+    "subtitle": "Select patient parameters and symptoms to receive the safest emergency OTC medication recommendation based on age, gender, and health conditions.",
+    "disclaimer_text": "This service is intended for preliminary guidance and minor emergency first aid only. It is not a substitute for direct medical examination or hospital emergency visits!",
+    "age_label": "Age Group & Age:",
+    "gender_label": "Gender:",
+    "condition_label": "Special Health Conditions:",
+    "symptom_label": "Emergency Symptom & Complaint Description:",
+    "symptom_placeholder": "Describe symptoms (e.g., severe migraine with blurriness, or acute diarrhea, or fever and runny nose)...",
+    "btn_submit": "Get Emergency Consultation & OTC Recommendation",
+    "btn_submitting": "Analyzing symptoms and selecting optimal therapy...",
+    "failed": "Unable to connect to emergency consultant, please try again.",
+    "error": "Could not analyze symptom. Please provide more details."
+  },
+  "alternatives": {
+    "badge": "Smart Drug Alternatives Engine",
+    "title": "Pharmaceutical Substitutes & Alternatives",
+    "subtitle": "Search for any medicine to match available exact substitutes or therapeutic alternatives safe for your age and condition.",
+    "placeholder": "Enter drug name (e.g., Antinal, Panadol, Augmentin, Lipitor)...",
+    "btn_search": "Find Alternatives",
+    "target_drug": "Medicine Selected for Alternatives:",
+    "identical_title": "1. Exact Substitutes (Identical Formulation & Active Ingredient)",
+    "therapeutic_title": "2. Therapeutic Alternatives & Cost-Saving Equivalents",
+    "no_identical": "No exact substitutes registered under this exact name.",
+    "no_therapeutic": "No other therapeutic alternatives currently registered.",
+    "loading": "Analyzing formulation and fetching matching substitutes...",
+    "not_found": "Could not find alternatives for this medicine currently.",
+    "error": "An error occurred while fetching alternatives. Please try again."
   },
   "notfound": {
     "title": "Page Not Found",

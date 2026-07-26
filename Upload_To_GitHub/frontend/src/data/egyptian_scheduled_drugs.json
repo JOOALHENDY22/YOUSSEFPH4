@@ -1,0 +1,4060 @@
+{
+  "scheduledDrugs": [
+    {
+      "name": "Tramadol 50mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Tramadol 50mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Tramadol 100mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Tramadol 150mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Tramadol 200mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Tramadol 225mg Tablet (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 50mg Tablet (EVA Pharma)",
+      "arabicName": "Tramadol 50mg Tablet (EVA Pharma)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (EVA Pharma)",
+      "arabicName": "Tramadol 100mg Tablet (EVA Pharma)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (EVA Pharma)",
+      "arabicName": "Tramadol 150mg Tablet (EVA Pharma)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (EVA Pharma)",
+      "arabicName": "Tramadol 200mg Tablet (EVA Pharma)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (EVA Pharma)",
+      "arabicName": "Tramadol 225mg Tablet (EVA Pharma)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 50mg Tablet (Pharco Pharmaceuticals)",
+      "arabicName": "Tramadol 50mg Tablet (Pharco Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (Pharco Pharmaceuticals)",
+      "arabicName": "Tramadol 100mg Tablet (Pharco Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (Pharco Pharmaceuticals)",
+      "arabicName": "Tramadol 150mg Tablet (Pharco Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (Pharco Pharmaceuticals)",
+      "arabicName": "Tramadol 200mg Tablet (Pharco Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (Pharco Pharmaceuticals)",
+      "arabicName": "Tramadol 225mg Tablet (Pharco Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 50mg Tablet (Amoun Pharmaceutical)",
+      "arabicName": "Tramadol 50mg Tablet (Amoun Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (Amoun Pharmaceutical)",
+      "arabicName": "Tramadol 100mg Tablet (Amoun Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (Amoun Pharmaceutical)",
+      "arabicName": "Tramadol 150mg Tablet (Amoun Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (Amoun Pharmaceutical)",
+      "arabicName": "Tramadol 200mg Tablet (Amoun Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (Amoun Pharmaceutical)",
+      "arabicName": "Tramadol 225mg Tablet (Amoun Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 50mg Tablet (Pfizer Egypt)",
+      "arabicName": "Tramadol 50mg Tablet (Pfizer Egypt)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (Pfizer Egypt)",
+      "arabicName": "Tramadol 100mg Tablet (Pfizer Egypt)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (Pfizer Egypt)",
+      "arabicName": "Tramadol 150mg Tablet (Pfizer Egypt)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (Pfizer Egypt)",
+      "arabicName": "Tramadol 200mg Tablet (Pfizer Egypt)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (Pfizer Egypt)",
+      "arabicName": "Tramadol 225mg Tablet (Pfizer Egypt)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 50mg Tablet (Sedico)",
+      "arabicName": "Tramadol 50mg Tablet (Sedico)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (Sedico)",
+      "arabicName": "Tramadol 100mg Tablet (Sedico)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (Sedico)",
+      "arabicName": "Tramadol 150mg Tablet (Sedico)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (Sedico)",
+      "arabicName": "Tramadol 200mg Tablet (Sedico)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (Sedico)",
+      "arabicName": "Tramadol 225mg Tablet (Sedico)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 50mg Tablet (Global Napi)",
+      "arabicName": "Tramadol 50mg Tablet (Global Napi)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (Global Napi)",
+      "arabicName": "Tramadol 100mg Tablet (Global Napi)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (Global Napi)",
+      "arabicName": "Tramadol 150mg Tablet (Global Napi)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (Global Napi)",
+      "arabicName": "Tramadol 200mg Tablet (Global Napi)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (Global Napi)",
+      "arabicName": "Tramadol 225mg Tablet (Global Napi)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 50mg Tablet (Medical Union Pharmaceuticals)",
+      "arabicName": "Tramadol 50mg Tablet (Medical Union Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (50mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 100mg Tablet (Medical Union Pharmaceuticals)",
+      "arabicName": "Tramadol 100mg Tablet (Medical Union Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 150mg Tablet (Medical Union Pharmaceuticals)",
+      "arabicName": "Tramadol 150mg Tablet (Medical Union Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (150mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 200mg Tablet (Medical Union Pharmaceuticals)",
+      "arabicName": "Tramadol 200mg Tablet (Medical Union Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (200mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Tramadol 225mg Tablet (Medical Union Pharmaceuticals)",
+      "arabicName": "Tramadol 225mg Tablet (Medical Union Pharmaceuticals)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Tramadol Hydrochloride (225mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Tramal",
+        "Tramad",
+        "Tramax",
+        "Tramjet",
+        "Tramcontin",
+        "Ultram",
+        "Ultracet",
+        "Tamol",
+        "Amadol",
+        "Contramal",
+        "Rivadol",
+        "Tradol",
+        "Tradolan",
+        "Tramaphar",
+        "Tramed",
+        "Tramek",
+        "Trafine",
+        "Zydol",
+        "Neotramal",
+        "Spasmogesic"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Pregabalin 50mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Pregabalin 75mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Pregabalin 100mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Pregabalin 150mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Pregabalin 200mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Pregabalin 300mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (EVA Pharma)",
+      "arabicName": "Pregabalin 50mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (EVA Pharma)",
+      "arabicName": "Pregabalin 75mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (EVA Pharma)",
+      "arabicName": "Pregabalin 100mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (EVA Pharma)",
+      "arabicName": "Pregabalin 150mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (EVA Pharma)",
+      "arabicName": "Pregabalin 200mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (EVA Pharma)",
+      "arabicName": "Pregabalin 300mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Pregabalin 50mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Pregabalin 75mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Pregabalin 100mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Pregabalin 150mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Pregabalin 200mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Pregabalin 300mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Pregabalin 50mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Pregabalin 75mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Pregabalin 100mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Pregabalin 150mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Pregabalin 200mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Pregabalin 300mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (Pfizer Egypt)",
+      "arabicName": "Pregabalin 50mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (Pfizer Egypt)",
+      "arabicName": "Pregabalin 75mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (Pfizer Egypt)",
+      "arabicName": "Pregabalin 100mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (Pfizer Egypt)",
+      "arabicName": "Pregabalin 150mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (Pfizer Egypt)",
+      "arabicName": "Pregabalin 200mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (Pfizer Egypt)",
+      "arabicName": "Pregabalin 300mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (Sedico)",
+      "arabicName": "Pregabalin 50mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (Sedico)",
+      "arabicName": "Pregabalin 75mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (Sedico)",
+      "arabicName": "Pregabalin 100mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (Sedico)",
+      "arabicName": "Pregabalin 150mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (Sedico)",
+      "arabicName": "Pregabalin 200mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (Sedico)",
+      "arabicName": "Pregabalin 300mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (Global Napi)",
+      "arabicName": "Pregabalin 50mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (Global Napi)",
+      "arabicName": "Pregabalin 75mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (Global Napi)",
+      "arabicName": "Pregabalin 100mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (Global Napi)",
+      "arabicName": "Pregabalin 150mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (Global Napi)",
+      "arabicName": "Pregabalin 200mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (Global Napi)",
+      "arabicName": "Pregabalin 300mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 50mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Pregabalin 50mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (50mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 75mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Pregabalin 75mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (75mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 100mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Pregabalin 100mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 150mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Pregabalin 150mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (150mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 200mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Pregabalin 200mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (200mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Pregabalin 300mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Pregabalin 300mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Pregabalin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lyrica",
+        "Lyrolin",
+        "Gabica",
+        "Pregaba",
+        "Kemirica",
+        "Dragon",
+        "Pregabalex"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Gabapentin 100mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Gabapentin 300mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Gabapentin 400mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Gabapentin 600mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "arabicName": "Gabapentin 800mg Capsule (EIPICO (Egyptian Int. Pharmaceutical))",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (EVA Pharma)",
+      "arabicName": "Gabapentin 100mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (EVA Pharma)",
+      "arabicName": "Gabapentin 300mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (EVA Pharma)",
+      "arabicName": "Gabapentin 400mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (EVA Pharma)",
+      "arabicName": "Gabapentin 600mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (EVA Pharma)",
+      "arabicName": "Gabapentin 800mg Capsule (EVA Pharma)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Gabapentin 100mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Gabapentin 300mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Gabapentin 400mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Gabapentin 600mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (Pharco Pharmaceuticals)",
+      "arabicName": "Gabapentin 800mg Capsule (Pharco Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Gabapentin 100mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Gabapentin 300mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Gabapentin 400mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Gabapentin 600mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (Amoun Pharmaceutical)",
+      "arabicName": "Gabapentin 800mg Capsule (Amoun Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (Pfizer Egypt)",
+      "arabicName": "Gabapentin 100mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (Pfizer Egypt)",
+      "arabicName": "Gabapentin 300mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (Pfizer Egypt)",
+      "arabicName": "Gabapentin 400mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (Pfizer Egypt)",
+      "arabicName": "Gabapentin 600mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (Pfizer Egypt)",
+      "arabicName": "Gabapentin 800mg Capsule (Pfizer Egypt)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (Sedico)",
+      "arabicName": "Gabapentin 100mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (Sedico)",
+      "arabicName": "Gabapentin 300mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (Sedico)",
+      "arabicName": "Gabapentin 400mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (Sedico)",
+      "arabicName": "Gabapentin 600mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (Sedico)",
+      "arabicName": "Gabapentin 800mg Capsule (Sedico)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (Global Napi)",
+      "arabicName": "Gabapentin 100mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (Global Napi)",
+      "arabicName": "Gabapentin 300mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (Global Napi)",
+      "arabicName": "Gabapentin 400mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (Global Napi)",
+      "arabicName": "Gabapentin 600mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (Global Napi)",
+      "arabicName": "Gabapentin 800mg Capsule (Global Napi)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 100mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Gabapentin 100mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (100mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 300mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Gabapentin 300mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (300mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 400mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Gabapentin 400mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (400mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 600mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Gabapentin 600mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (600mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Gabapentin 800mg Capsule (Medical Union Pharmaceuticals)",
+      "arabicName": "Gabapentin 800mg Capsule (Medical Union Pharmaceuticals)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Gabapentin (800mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Neurontin",
+        "Gapex",
+        "Conventin",
+        "Gabanerv",
+        "Gabatol"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - EVA Pharma",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - EVA Pharma",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Pharco Pharmaceuticals",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Amoun Pharmaceutical",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Amoun Pharmaceutical",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Pfizer Egypt",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Pfizer Egypt",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Sedico",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Sedico",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Global Napi",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Global Napi",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Medical Union Pharmaceuticals",
+      "arabicName": "Xanax (Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Alprazolam (0.25mg / 0.5mg / 1mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Xanax",
+        "Xanor",
+        "Zolam",
+        "Restolam",
+        "Constan",
+        "Kalma"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - EVA Pharma",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - EVA Pharma",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - Pharco Pharmaceuticals",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - Amoun Pharmaceutical",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - Amoun Pharmaceutical",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - Pfizer Egypt",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - Pfizer Egypt",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - Sedico",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - Sedico",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - Global Napi",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - Global Napi",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Rivotril (Clonazepam (0.5mg / 2mg)) - Medical Union Pharmaceuticals",
+      "arabicName": "Rivotril (Clonazepam (0.5mg / 2mg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Clonazepam (0.5mg / 2mg)",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Rivotril",
+        "Apetryl",
+        "Clonex"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - EVA Pharma",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - EVA Pharma",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - Pharco Pharmaceuticals",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - Pharco Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - Amoun Pharmaceutical",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - Amoun Pharmaceutical",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - Pfizer Egypt",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - Pfizer Egypt",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - Sedico",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - Sedico",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - Global Napi",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - Global Napi",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Valium (Diazepam 5mg / 10mg) - Medical Union Pharmaceuticals",
+      "arabicName": "Valium (Diazepam 5mg / 10mg) - Medical Union Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Diazepam 5mg / 10mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Valium",
+        "Stesolid",
+        "Diazemuls"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - EVA Pharma",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - EVA Pharma",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - Pharco Pharmaceuticals",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - Pharco Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - Amoun Pharmaceutical",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - Amoun Pharmaceutical",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - Pfizer Egypt",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - Pfizer Egypt",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - Sedico",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - Sedico",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - Global Napi",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - Global Napi",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Ativan (Lorazepam 1mg / 2mg) - Medical Union Pharmaceuticals",
+      "arabicName": "Ativan (Lorazepam 1mg / 2mg) - Medical Union Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Lorazepam 1mg / 2mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Ativan",
+        "Temesta"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - EVA Pharma",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - EVA Pharma",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Pharco Pharmaceuticals",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Pharco Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Amoun Pharmaceutical",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Amoun Pharmaceutical",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Pfizer Egypt",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Pfizer Egypt",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Sedico",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Sedico",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Global Napi",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Global Napi",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Medical Union Pharmaceuticals",
+      "arabicName": "Lexotanil (Bromazepam 1.5mg / 3mg / 6mg) - Medical Union Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Bromazepam 1.5mg / 3mg / 6mg",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Lexotanil",
+        "Calmepam",
+        "Normoc"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - EVA Pharma",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - EVA Pharma",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - Pharco Pharmaceuticals",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - Pharco Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - Amoun Pharmaceutical",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - Amoun Pharmaceutical",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - Pfizer Egypt",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - Pfizer Egypt",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - Sedico",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - Sedico",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - Global Napi",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - Global Napi",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "Librax (Chlordiazepoxide + Clidinium) - Medical Union Pharmaceuticals",
+      "arabicName": "Librax (Chlordiazepoxide + Clidinium) - Medical Union Pharmaceuticals",
+      "scheduleType": "🟡 جدول ثاني (مؤثرات عقلية ومهدئات وأعصاب)",
+      "scheduleLevel": "schedule_2",
+      "activeIngredient": "Chlordiazepoxide + Clidinium",
+      "description": "مدرج بالجدول الثاني بموجب قرارات هيئة الدواء المصرية للمؤثرات العقلية والأعصاب - دفتر جدول رسمي.",
+      "dispensingRules": "🟡 يصرف فقط بروشتة طبية معتمدة ومبين بها الجرعة وعدد العلب مع قيد المستحضر بدفتر الجدول بالصيدلية.",
+      "tradeNames": [
+        "Librax",
+        "Librium"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - EVA Pharma",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - EVA Pharma",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - Pharco Pharmaceuticals",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - Amoun Pharmaceutical",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - Amoun Pharmaceutical",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - Pfizer Egypt",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - Pfizer Egypt",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - Sedico",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - Sedico",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - Global Napi",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - Global Napi",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "MST (Morphine Sulfate (10mg / 20mg)) - Medical Union Pharmaceuticals",
+      "arabicName": "MST (Morphine Sulfate (10mg / 20mg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Morphine Sulfate (10mg / 20mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "MST",
+        "Kapanol",
+        "Oramorph"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - EVA Pharma",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - EVA Pharma",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Pharco Pharmaceuticals",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Amoun Pharmaceutical",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Amoun Pharmaceutical",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Pfizer Egypt",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Pfizer Egypt",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Sedico",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Sedico",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Global Napi",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Global Napi",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Medical Union Pharmaceuticals",
+      "arabicName": "Durogesic (Fentanyl (25mcg / 50mcg / 100mcg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Fentanyl (25mcg / 50mcg / 100mcg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Durogesic",
+        "Actiq",
+        "Duragesic"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - EVA Pharma",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - EVA Pharma",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - Pharco Pharmaceuticals",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - Amoun Pharmaceutical",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - Amoun Pharmaceutical",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - Pfizer Egypt",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - Pfizer Egypt",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - Sedico",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - Sedico",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - Global Napi",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - Global Napi",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Meperidine (Pethidine (50mg / 100mg)) - Medical Union Pharmaceuticals",
+      "arabicName": "Meperidine (Pethidine (50mg / 100mg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Pethidine (50mg / 100mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Meperidine",
+        "Pethidine"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - EVA Pharma",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - EVA Pharma",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - Pharco Pharmaceuticals",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - Amoun Pharmaceutical",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - Amoun Pharmaceutical",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - Pfizer Egypt",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - Pfizer Egypt",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - Sedico",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - Sedico",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - Global Napi",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - Global Napi",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Codafin (Codeine Phosphate (30mg)) - Medical Union Pharmaceuticals",
+      "arabicName": "Codafin (Codeine Phosphate (30mg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Codeine Phosphate (30mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Codafin",
+        "Codalgin"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - EVA Pharma",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - EVA Pharma",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Pharco Pharmaceuticals",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Amoun Pharmaceutical",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Amoun Pharmaceutical",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Pfizer Egypt",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Pfizer Egypt",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Sedico",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Sedico",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Global Napi",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Global Napi",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Medical Union Pharmaceuticals",
+      "arabicName": "Ritalin (Methylphenidate (10mg / 18mg / 36mg / 54mg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🔴 جدول أول (مخدرات ومؤثرات عقلية مشددة)",
+      "scheduleLevel": "schedule_1",
+      "activeIngredient": "Methylphenidate (10mg / 18mg / 36mg / 54mg)",
+      "description": "مدرج بالجدول الأول فقرة (أ) مخدرات بموجب قرارات هيئة الدواء المصرية وقانون 182 لسنة 1960 - دفتر مخدرات رسمي.",
+      "dispensingRules": "🔴 يمنع الصرف نهائياً إلا بروشتة حمراء مدموغة برقم قيد طبيب وتاريخ الصرف وتسجيل الرقم القومي بدفتر المخدرات.",
+      "tradeNames": [
+        "Ritalin",
+        "Concerta"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - EIPICO (Egyptian Int. Pharmaceutical)",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - EVA Pharma",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - EVA Pharma",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - Pharco Pharmaceuticals",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - Pharco Pharmaceuticals",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - Amoun Pharmaceutical",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - Amoun Pharmaceutical",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - Pfizer Egypt",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - Pfizer Egypt",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - Sedico",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - Sedico",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - Global Napi",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - Global Napi",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    },
+    {
+      "name": "Cytotec (Misoprostol (200mcg)) - Medical Union Pharmaceuticals",
+      "arabicName": "Cytotec (Misoprostol (200mcg)) - Medical Union Pharmaceuticals",
+      "scheduleType": "🟠 أدوية الدرج المغلق والرقابة الخاصة (مستشفيات فقط)",
+      "scheduleLevel": "closed_cabinet",
+      "activeIngredient": "Misoprostol (200mcg)",
+      "description": "مدرج بقوائم الرقابة الخاصة بالدرج المغلق والمستشفيات لضمان عدم الاستخدام الخاطئ.",
+      "dispensingRules": "🟠 يصرف فقط داخل المستشفيات المعتمدة أو بموجب موافقة استشارية خاصة تحت إشراف طبي مباشر.",
+      "tradeNames": [
+        "Cytotec"
+      ]
+    }
+  ]
+}

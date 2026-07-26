@@ -8,6 +8,10 @@ import CompareDrugs from './pages/CompareDrugs';
 import Favorites from './pages/Favorites';
 import SearchHistory from './pages/SearchHistory';
 import About from './pages/About';
+import ControlledDrugs from './pages/ControlledDrugs';
+import DrugAlternatives from './pages/DrugAlternatives';
+import EmergencyConsultant from './pages/EmergencyConsultant';
+import AdminDashboard from './pages/AdminDashboard';
 import NotFound from './pages/NotFound';
 
 function App() {
@@ -20,6 +24,12 @@ function App() {
           <Route path="drug/:id" element={<DrugDetails />} />
           <Route path="interaction" element={<DrugInteraction />} />
           <Route path="compare" element={<CompareDrugs />} />
+          <Route path="scheduled" element={<ControlledDrugs />} />
+          <Route path="alternatives" element={<DrugAlternatives />} />
+          <Route path="emergency" element={<EmergencyConsultant />} />
+          <Route path="admin" element={<AdminDashboard />} />
+          <Route path="admin-dashboard" element={<AdminDashboard />} />
+          <Route path="dashboard" element={<AdminDashboard />} />
           <Route path="favorites" element={<Favorites />} />
           <Route path="history" element={<SearchHistory />} />
           <Route path="about" element={<About />} />

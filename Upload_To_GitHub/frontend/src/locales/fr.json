@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "search": "Recherche",
+    "alternatives": "Substituts",
+    "emergency": "Urgence",
+    "scheduled": "Médicaments Contrôlés",
+    "interactions": "Interactions",
+    "compare": "Comparer",
+    "favorites": "Favoris",
+    "history": "Historique",
+    "about": "À Propos"
+  },
+  "home": {
+    "badge": "YMH DRUG CHECK Phase 1 est Actif",
+    "title_part1": "Perspectives",
+    "title_highlight": "Pharmaceutiques",
+    "title_part2": "Intelligentes",
+    "description": "La plateforme de nouvelle génération pour les étudiants en pharmacie et professionnels afin de vérifier les interactions, étiquettes FDA et comparer les médicaments.",
+    "search_btn": "Rechercher un Médicament",
+    "interact_btn": "Vérifier les Interactions",
+    "stats": {
+      "drugs_label": "Base de Données Médicaments",
+      "interact_label": "Interactions Vérifiées",
+      "pro_label": "Professionnels Actifs",
+      "uptime_label": "Temps de Fonctionnement"
+    },
+    "features_title": "Outils Premium pour la Pharmacie Moderne",
+    "features_desc": "Tout ce dont vous avez besoin pour prendre des décisions cliniques sûres et éclairées.",
+    "f1_title": "Recherche Ultra-Rapide",
+    "f1_desc": "Trouvez n'importe quel médicament instantanément avec la saisie semi-automatique.",
+    "f2_title": "Sécurité Avant Tout",
+    "f2_desc": "Vérification complète des interactions avec niveaux de gravité et conseils.",
+    "f3_title": "IA Clinique Avancée",
+    "f3_desc": "Obtenez des comparaisons et alternatives intelligentes adaptées au patient."
+  },
+  "footer": {
+    "rights": "YMH DRUG CHECK. Tous droits réservés.",
+    "disclaimer": "À des fins éducatives uniquement. Ne remplace pas un avis médical professionnel.",
+    "designed_by": "Conçu par Youssef Mohamed"
+  },
+  "creator_banner": {
+    "title": "À Propos du Créateur",
+    "created_by": "Créé par",
+    "desc": "Étudiant en pharmacie à l'Université Égypto-Chinoise (ECU) en Égypte, Faculté de Pharmacie."
+  },
+  "search": {
+    "title": "Rechercher des Médicaments",
+    "subtitle": "Recherchez parmi notre base de données comprenant plus de 50 000 médicaments.",
+    "placeholder": "Rechercher par nom commercial ou principe actif...",
+    "btn_search": "Rechercher",
+    "btn_searching": "Recherche...",
+    "recent_title": "Recherches Récentes",
+    "trending_title": "Populaire Actuellement",
+    "disclaimer": "Informations médicales officielles vérifiées par l'OpenFDA et le Ministère de la Santé."
+  },
+  "details": {
+    "back": "Retour à la recherche",
+    "verified": "Vérifié FDA",
+    "btn_save": "Enregistrer",
+    "btn_saved": "Enregistré",
+    "btn_compare": "Comparer",
+    "indications": "Indications & Utilisation",
+    "warnings": "Avertissements Importants",
+    "dosage": "Posologie & Administration",
+    "pediatric": "Usage Pédiatrique",
+    "geriatric": "Usage Gériatrique",
+    "contraindications": "Contre-indications",
+    "adverse": "Effets Indésirables",
+    "quick_facts": "Faits Rapides",
+    "manufacturer": "Fabricant",
+    "pregnancy": "Grossesse",
+    "rx_otc": "Rx / OTC",
+    "check_interact_title": "Vérifier les Interactions",
+    "check_interact_desc": "Découvrez comment ce médicament réagit avec vos autres traitements.",
+    "check_btn": "Vérifier Maintenant",
+    "disclaimer": "Avertissement: Les données médicales sont extraites directement des bases de données officielles."
+  },
+  "interaction": {
+    "title": "Vérificateur d'Interactions Médicamenteuses",
+    "subtitle": "Ajoutez deux médicaments ou plus pour vérifier les interactions potentiellement dangereuses.",
+    "placeholder": "Tapez le nom d'un médicament (ex: Warfarin, Aspirin)...",
+    "btn_add": "Ajouter",
+    "btn_check": "Vérifier les Interactions",
+    "btn_checking": "Analyse en cours...",
+    "no_drugs": "Aucun médicament ajouté. Ajoutez au moins deux médicaments.",
+    "results_title": "Résultats de l'Analyse",
+    "major": "Majeur",
+    "minor": "Modéré / Mineur",
+    "no_interaction_title": "Aucune interaction majeure détectée",
+    "no_interaction_desc": "Selon les données NIH RxNav, aucune interaction sévère n'a été trouvée.",
+    "disclaimer": "Données d'interaction fournies par la Bibliothèque Nationale de Médecine des États-Unis."
+  },
+  "compare": {
+    "title": "Comparateur de Médicaments",
+    "subtitle": "Comparez côte à côte les indications, effets secondaires et paramètres cliniques.",
+    "select": "Sélectionnez les médicaments à comparer",
+    "btn_view": "Voir la Monographie Détaillée"
+  },
+  "favorites": {
+    "title": "Médicaments Enregistrés",
+    "btn_view": "Afficher",
+    "no_saved_title": "Aucun médicament enregistré",
+    "no_saved_desc": "Vous n'avez encore enregistré aucun médicament.",
+    "btn_search": "Rechercher des Médicaments"
+  },
+  "history": {
+    "title": "Historique des Recherches",
+    "btn_clear": "Effacer Tout"
+  },
+  "about": {
+    "title": "À Propos de PharmaGuard AI",
+    "subtitle": "Permettre aux professionnels de santé de prendre des décisions éclairées.",
+    "mission_title": "Notre Mission",
+    "mission_desc": "Fournir aux étudiants et professionnels de santé un outil ultra-rapide et précis.",
+    "connect_title": "Contactez-nous"
+  },
+  "scheduled": {
+    "badge": "Réglementation de l'Autorité Égyptienne du Médicament (EDA)",
+    "title": "Médicaments Contrôlés & Tableau ⚖️🔒",
+    "subtitle": "Guide officiel de classification des substances contrôlées en Égypte.",
+    "placeholder": "Rechercher par nom ou principe actif (ex: Tramadol, Lyrica, Xanax)...",
+    "btn_check": "Vérifier",
+    "all_tab": "Tous les Médicaments Contrôlés",
+    "schedule_1_tab": "🔴 Tableau 1 (Stupéfiants)",
+    "schedule_2_tab": "🟠 Tableau 2 (Psychotropes)",
+    "eda_notice": "Mis à jour selon les décrets du Ministère de la Santé",
+    "active_ingredient": "Principe Actif:",
+    "dispensing_rules": "Règles de Délivrance Légale:"
+  },
+  "emergency": {
+    "badge": "Consultation Médicale d'Urgence",
+    "title": "Conseiller d'Urgence & Recommandations",
+    "subtitle": "Entrez les symptômes et paramètres pour recevoir le traitement OTC le plus sûr.",
+    "disclaimer_text": "Ce service est destiné uniquement aux premiers secours et conseils d'urgence.",
+    "age_label": "Tranche d'Âge:",
+    "gender_label": "Genre / Sexe:",
+    "condition_label": "Conditions de Santé Particulières:",
+    "symptom_label": "Description des Symptômes d'Urgence:",
+    "symptom_placeholder": "Décrivez les symptômes (ex: migraine sévère, diarrhée aiguë, fièvre)...",
+    "btn_submit": "Obtenir la Recommandation d'Urgence",
+    "btn_submitting": "Analyse des symptômes en cours...",
+    "failed": "Impossible de se connecter au conseiller, veuillez réessayer.",
+    "error": "Veuillez fournir plus de détails sur vos symptômes."
+  },
+  "alternatives": {
+    "badge": "Moteur Intelligent d'Alternatives",
+    "title": "Substituts et Alternatives Thérapeutiques",
+    "subtitle": "Trouvez le substitut exact ou l'équivalent thérapeutique économique et sûr.",
+    "placeholder": "Entrez le nom du médicament (ex: Antinal, Panadol, Augmentin)...",
+    "btn_search": "Trouver des Alternatives",
+    "target_drug": "Médicament Sélectionné:",
+    "identical_title": "1. Substituts Identiques (Même Principe Actif)",
+    "therapeutic_title": "2. Alternatives Thérapeutiques Équivalentes",
+    "no_identical": "Aucun substitut identique enregistré sous ce nom.",
+    "no_therapeutic": "Aucune alternative thérapeutique enregistrée actuellement.",
+    "loading": "Analyse de la formulation en cours...",
+    "not_found": "Aucune alternative trouvée pour le moment.",
+    "error": "Une erreur est survenue lors de la recherche."
+  },
+  "notfound": {
+    "title": "Page Non Trouvée",
+    "desc": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "btn_home": "Retour à l'Accueil",
+    "btn_search": "Rechercher des Médicaments"
+  }
+}

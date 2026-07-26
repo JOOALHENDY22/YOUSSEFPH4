@@ -6,14 +6,14 @@ import arTranslation from './locales/ar.json';
 import arEGTranslation from './locales/ar-EG.json';
 
 const resources = {
-  en: {
-    translation: enTranslation
-  },
   ar: {
     translation: arTranslation
   },
   'ar-EG': {
     translation: arEGTranslation
+  },
+  en: {
+    translation: enTranslation
   }
 };
 
@@ -21,10 +21,10 @@ i18n
   .use(initReactI18next)
   .init({
     resources,
-    lng: 'en', // default language
-    fallbackLng: 'en',
+    lng: 'ar-EG', // default to Egyptian Dialect / Arabic
+    fallbackLng: 'ar',
     interpolation: {
-      escapeValue: false // react already safes from xss
+      escapeValue: false
     }
   });
 

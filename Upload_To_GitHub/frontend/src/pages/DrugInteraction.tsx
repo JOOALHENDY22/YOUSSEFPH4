@@ -6,7 +6,7 @@ import { checkInteractions, fetchDrugSuggestions } from '../services/api';
 
 export default function DrugInteraction() {
   const { t } = useTranslation();
-  const [drugs, setDrugs] = useState<string[]>(['Lisinopril', 'Ibuprofen']);
+  const [drugs, setDrugs] = useState<string[]>([]);
   const [inputVal, setInputVal] = useState('');
   
   // Autocomplete states

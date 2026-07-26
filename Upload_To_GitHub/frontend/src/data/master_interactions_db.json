@@ -1,0 +1,52 @@
+{
+  "brufen+aspirin": {
+    "drug1": "Brufen / Ibuprofen",
+    "drug2": "Aspirin",
+    "severity": "High (عالي الخطورة)",
+    "severityLevel": "danger",
+    "summary": "زيادة خطورة الإصابة بتقرحات ونزيف المعدة الشديد، وإبطاء التثبيط الصفائحي للأسبرين.",
+    "description": "تزامن الإيبوبروفين (بروفين) مع الأسبرين يضاعف من تهيج الغشاء المخاطي للمعدة ويتسبب في قرح مدممة، كما أن الإيبوبروفين يعطل مفعول الأسبرين المانع للجلطات عند اتخاذه لحماية القلب.",
+    "mechanism": "تنافس كلا العلاجين على إنزيمات Cyclooxygenase-1 (COX-1) في الصفائح الدموية والجهاز الهضمي.",
+    "management": "تجنب الجمع بينهما. إذا كان الأسبرين لحماية القلب، يؤخذ الأسبرين أولاً ثم الانتظار ساعتين قبل تناول الإيبوبروفين، أو استخدام الباراسيتامول كبديل مسكن آمن."
+  },
+  "augmentin+warfarin": {
+    "drug1": "Augmentin / Amoxicillin",
+    "drug2": "Warfarin / Coumadin",
+    "severity": "High (عالي الخطورة)",
+    "severityLevel": "danger",
+    "summary": "زيادة خطر النزيف نتيجة ارتفاع معدل تجلط الدم (INR).",
+    "description": "أوجمنتين يقضي على البكتيريا النافعة بالأمعاء التي تنتج فيتامين K، مما يزيد من تأثير الوارفارين المانع للتجلط بشكل مفرط ويؤدي لنزيف.",
+    "mechanism": "تثبيط فلورا الأمعاء المسؤولة عن تصنيع فيتامين K1 الإيكولوجي.",
+    "management": "قياس تحليل سيولة الدم (INR) بانتظام وتعديل جرعة الوارفارين تحت إشراف الطبيب."
+  },
+  "nexium+plavix": {
+    "drug1": "Nexium / Esomeprazole",
+    "drug2": "Plavix / Clopidogrel",
+    "severity": "Moderate (متوسط الخطورة)",
+    "severityLevel": "warning",
+    "summary": "تقليل فاعلية بلافيكس المانع للتجلط وزيادة خطورة الأزمات القلبية.",
+    "description": "نكسيوم يثبط إنزيم CYP2C19 في الكبد المسؤول عن تحويل البلافيكس لصورته الفعالة.",
+    "mechanism": "Inhibition of hepatic CYP2C19 bioactivation enzyme.",
+    "management": "استبدال نكسيوم بمضاد حموضة آمن لا يؤثر على البلافيكس مثل كونترولوك (Pantoprazole)."
+  },
+  "congestal+concor": {
+    "drug1": "Congestal / Pseudoephedrine",
+    "drug2": "Concor / Bisoprolol",
+    "severity": "Moderate (متوسط الخطورة)",
+    "severityLevel": "warning",
+    "summary": "ارتفاع مفيد لضغط الدم وإبطاء مفعول خافض الضغط كونكور.",
+    "description": "مادة سودوإيفيدرين في كونجستال تعمل على تضييق الأوعية الدموية وتعاكس تأثير علاج الضغط كونكور.",
+    "mechanism": "Alpha-adrenergic vasoconstriction versus Beta-1 blockade competition.",
+    "management": "استخدام أقراص حساسية وخافض حرارة خالي من سودوإيفيدرين أو نقط أنف موضعية بحذر."
+  },
+  "cataflam+concor": {
+    "drug1": "Cataflam / Diclofenac",
+    "drug2": "Concor / Bisoprolol",
+    "severity": "Moderate (متوسط الخطورة)",
+    "severityLevel": "warning",
+    "summary": "تقليل فاعلية خافض الضغط واحتباس السوائل بالجسم.",
+    "description": "المسكنات القوية كالكتافلام تقلل من إفراز البروستاغلاندين الكلوي مما يؤدي لاحتباس الصوديوم والماء وارتفاع الضغط.",
+    "mechanism": "Renal prostaglandin inhibition leading to sodium retention.",
+    "management": "استخدام كتافلام لأقل فترة ممكنة أو استبداله بالباراسيتامول مع متابعة قياس ضغط الدم."
+  }
+}

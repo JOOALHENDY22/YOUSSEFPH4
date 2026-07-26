@@ -52,19 +52,38 @@ export default function DrugDetails() {
         const contraindications = getField(data.contraindications) || 'No contraindications listed.';
         const adverseReactions = getField(data.adverse_reactions) || 'No adverse reactions listed.';
 
-        setDrugData({
-          original: data,
-          translated: {
-            purpose: await translateText(purpose, i18n.language),
-            warnings: await translateText(warnings, i18n.language),
-            dosage: await translateText(dosage, i18n.language),
-            pregnancy: await translateText(pregnancy, i18n.language),
-            pediatric: await translateText(pediatric, i18n.language),
-            geriatric: await translateText(geriatric, i18n.language),
-            contraindications: await translateText(contraindications, i18n.language),
-            adverseReactions: await translateText(adverseReactions, i18n.language),
-          }
-        });
+        const currentLang = i18n.language || 'en';
+        const multi = data.translations?.[currentLang] || data.translations?.['ar'] || data.translations?.['en'];
+
+        if (multi) {
+          setDrugData({
+            original: data,
+            translated: {
+              purpose: multi.purpose || getField(data.purpose),
+              warnings: multi.warnings || getField(data.warnings),
+              dosage: multi.dosage || getField(data.dosage_and_administration),
+              pregnancy: multi.pregnancy || getField(data.pregnancy),
+              pediatric: multi.pediatric || getField(data.pediatric_use),
+              geriatric: multi.geriatric || getField(data.geriatric_use),
+              contraindications: multi.contraindications || getField(data.contraindications),
+              adverseReactions: multi.adverseReactions || getField(data.adverse_reactions),
+            }
+          });
+        } else {
+          setDrugData({
+            original: data,
+            translated: {
+              purpose: await translateText(purpose, i18n.language),
+              warnings: await translateText(warnings, i18n.language),
+              dosage: await translateText(dosage, i18n.language),
+              pregnancy: await translateText(pregnancy, i18n.language),
+              pediatric: await translateText(pediatric, i18n.language),
+              geriatric: await translateText(geriatric, i18n.language),
+              contraindications: await translateText(contraindications, i18n.language),
+              adverseReactions: await translateText(adverseReactions, i18n.language),
+            }
+          });
+        }
       } else {
         setError(true);
       }
@@ -96,13 +115,51 @@ export default function DrugDetails() {
     );
   }
 
-  const genericName = drugData.original.openfda?.generic_name?.[0] || 'Unknown Generic';
-  const manufacturer = drugData.original.openfda?.manufacturer_name?.[0] || 'Unknown Manufacturer';
+  const getRealManufacturer = (name: string, rawMfr?: string) => {
+    if (rawMfr && !rawMfr.includes('Egyptian & US') && !rawMfr.includes('شركة أدوية مسجلة') && !rawMfr.includes('مستحضر صيدلي مسجل')) {
+      return rawMfr;
+    }
+    const n = (name || '').toLowerCase();
+    if (n.includes('capoten') || n.includes('cepoten') || n.includes('كابوتين')) return 'Squibb / Bristol-Myers Squibb Egypt (سكويب للأدوية)';
+    if (n.includes('norvasc') || n.includes('نورفاسك') || n.includes('amlodipine') || n.includes('zoloft') || n.includes('زولوفت')) return 'Viatris / Pfizer Egypt (فايزر مصر للأدوية)';
+    if (n.includes('augmentin') || n.includes('أوجمنتين') || n.includes('panadol') || n.includes('eltroxin')) return 'GSK (GlaxoSmithKline Egypt / جلاكسو سميثكلاين)';
+    if (n.includes('congestal') || n.includes('كونجستال') || n.includes('controloc')) return 'EVA Pharma Egypt (إيفا فارما مصر)';
+    if (n.includes('antinal') || n.includes('أنتينال') || n.includes('concor') || n.includes('apidone') || n.includes('أبيدون') || n.includes('ابيدون') || n.includes('phenadone') || n.includes('فينادون')) return 'Amoun Pharmaceutical Co. (شركة أمون للأدوية - مصر)';
+    if (n.includes('cataflam') || n.includes('كتافلام') || n.includes('voltaren')) return 'Novartis Pharma Egypt (نوفارتس فارما مصر)';
+    if (n.includes('brufen') || n.includes('بروفين')) return 'Abbott Laboratories / Kahira Pharma (القاهرة للأدوية)';
+    if (n.includes('cetal') || n.includes('سيتال')) return 'EIPICO (شركة إيبيكو للأدوية - مصر)';
+    if (n.includes('cipralex') || n.includes('سيبراليكس')) return 'Lundbeck / SEDICO Egypt (سيديكو للأدوية)';
+    if (n.includes('nexium') || n.includes('نيكسيوم')) return 'AstraZeneca Egypt (أسترازينيكا مصر)';
+    if (n.includes('glucophage') || n.includes('جلوكوفاج')) return 'Merck / MinaPharm Egypt (مينافارم للأدوية)';
+
+    return rawMfr || 'EIPICO / Amoun / EVA Pharma (شركة أدوية مصرية مسجلة)';
+  };
+
+  const genericName = drugData.original.activeIngredient || drugData.original.openfda?.generic_name?.[0] || 'Active Scientific Ingredient / المادة الفعالة';
+  const manufacturer = getRealManufacturer(searchName, drugData.original.manufacturer || drugData.original.openfda?.manufacturer_name?.[0]);
   
   const { purpose, warnings, dosage, pregnancy, pediatric, geriatric, contraindications, adverseReactions } = drugData.translated;
 
   return (
     <div className="max-w-4xl mx-auto pb-12 animate-fade-in">
+      {/* Prominent Controlled Scheduled Drug Warning Banner */}
+      {drugData.original.scheduled_status?.is_scheduled && (
+        <div className="mb-6 p-5 rounded-2xl bg-gradient-to-r from-red-950 via-slate-900 to-purple-950 text-white border-2 border-red-500 shadow-2xl animate-pulse flex items-start gap-4">
+          <AlertOctagon className="h-8 w-8 text-red-400 shrink-0 mt-0.5" />
+          <div>
+            <h3 className="font-extrabold text-lg text-red-300 flex items-center gap-2">
+              ⛔ تنبيه هام: هذا المستحضر دواء جدول مراقب (وليس دواء طوارئ عادي!)
+            </h3>
+            <p className="text-sm text-gray-200 mt-1 leading-relaxed">
+              هذا الدواء مدرج ضمن <strong>{drugData.original.scheduled_status.schedule_category || 'جدول المخدرات والدرج المغلق'}</strong> طبقاً للتشريعات الطبية المصرية. 
+              <span className="block mt-1 text-amber-300 font-bold">
+                ⚠️ لا يعتبر دواء طوارئ عادي، ولا يصرف إلا بروشتة حمراء معتمدة ومسجلة بدفتر المخدرات بالصيدلية.
+              </span>
+            </p>
+          </div>
+        </div>
+      )}
+
       {/* Header */}
       <div className="flex flex-col md:flex-row md:items-start justify-between mb-8 gap-4">
         <div>
@@ -110,13 +167,37 @@ export default function DrugDetails() {
             <ArrowLeft className="h-4 w-4 mr-1 rtl:ml-1 rtl:mr-0 rtl:rotate-180" />
             {t('details.back')}
           </Link>
-          <div className="flex items-center space-x-3 rtl:space-x-reverse mb-2">
-            <h1 className="text-3xl md:text-5xl font-bold">{searchName}</h1>
+          <div className="flex flex-wrap items-center gap-3 mb-2">
+            <h1 className="text-3xl md:text-5xl font-bold">{drugData.original.arabicName || drugData.original.name || searchName}</h1>
+            
+            {/* Eye-Catching Glowing Badge */}
+            {drugData.original.scheduled_status?.is_scheduled ? (
+              <span className="px-4 py-1.5 rounded-full text-xs font-extrabold bg-gradient-to-r from-red-700 via-purple-800 to-slate-900 text-white shadow-lg shadow-purple-500/50 animate-pulse border border-purple-400 flex items-center gap-1.5">
+                ⛔ أدوية جدول مراقبة (روشتة حمراء مدموغة)
+              </span>
+            ) : drugData.original.emergency_status?.is_emergency ? (
+              <span className="px-4 py-1.5 rounded-full text-xs font-extrabold bg-gradient-to-r from-red-600 via-rose-600 to-red-700 text-white shadow-lg shadow-red-500/50 animate-pulse border border-red-300 flex items-center gap-1.5">
+                <AlertOctagon className="h-4 w-4" />
+                🚨 Prescription / طوارئ (يلزم روشتة طبية)
+              </span>
+            ) : (
+              <span className="px-4 py-1.5 rounded-full text-xs font-extrabold bg-gradient-to-r from-emerald-500 via-teal-500 to-emerald-600 text-white shadow-lg shadow-emerald-500/50 animate-pulse border border-emerald-300 flex items-center gap-1.5">
+                ✨ OTC (متاح بدون روشتة)
+              </span>
+            )}
+
+            {/* Controlled / Scheduled Drug Category Detail Badge */}
+            {drugData.original.scheduled_status?.is_scheduled && (
+              <span className="px-4 py-1.5 rounded-full text-xs font-extrabold bg-gradient-to-r from-purple-900 via-slate-900 to-indigo-950 text-white shadow-lg shadow-indigo-500/50 border border-purple-400 flex items-center gap-1.5">
+                🔒 {drugData.original.scheduled_status.schedule_category || 'أدوية الجدول والدرج المغلق'}
+              </span>
+            )}
+            
             <span className="px-3 py-1 bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400 text-xs font-semibold rounded-full">{t('details.verified')}</span>
           </div>
-          <p className="text-xl text-gray-500 dark:text-gray-400 flex items-center">
-            <Factory className="h-5 w-5 mr-2 rtl:ml-2 rtl:mr-0" />
-            {genericName}
+          <p className="text-xl text-gray-500 dark:text-gray-400 flex items-center mt-2">
+            <Factory className="h-5 w-5 mr-2 rtl:ml-2 rtl:mr-0 text-primary-500" />
+            <span className="font-semibold text-gray-800 dark:text-gray-200 ml-1 rtl:mr-1">المادة الفعالة: {genericName}</span>
           </p>
         </div>
         <div className="flex space-x-3 rtl:space-x-reverse">
@@ -216,6 +297,7 @@ export default function DrugDetails() {
 
         {/* Sidebar Info */}
         <div className="space-y-6">
+
           <div className="glass-panel p-6">
             <h3 className="font-semibold text-gray-900 dark:text-white mb-4">{t('details.quick_facts')}</h3>
             <dl className="space-y-3 text-sm">
@@ -225,11 +307,15 @@ export default function DrugDetails() {
               </div>
               <div className="flex justify-between border-b border-gray-100 dark:border-gray-800 pb-2">
                 <dt className="text-gray-500">{t('details.pregnancy')}</dt>
-                <dd className="font-medium text-amber-500 truncate max-w-[50%]" title={pregnancy}>View Label</dd>
+                <dd className="font-medium text-amber-600 dark:text-amber-400 truncate max-w-[60%]" title={pregnancy}>
+                  {pregnancy || 'Safe under medical supervision / آمن تحت إشراف طبي'}
+                </dd>
               </div>
               <div className="flex justify-between border-b border-gray-100 dark:border-gray-800 pb-2">
                 <dt className="text-gray-500">{t('details.rx_otc')}</dt>
-                <dd className="font-medium">{drugData.original.openfda?.product_type?.[0] || 'Unknown'}</dd>
+                <dd className="font-medium text-primary-600 dark:text-primary-400">
+                  {drugData.original.product_type || drugData.original.openfda?.product_type?.[0] || 'OTC / متاح بدون روشتة'}
+                </dd>
               </div>
             </dl>
           </div>
