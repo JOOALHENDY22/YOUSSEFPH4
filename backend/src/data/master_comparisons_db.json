@@ -1,0 +1,60 @@
+{
+  "panadol_vs_brufen": {
+    "drugA": "Panadol (Paracetamol)",
+    "drugB": "Brufen (Ibuprofen)",
+    "comparison": {
+      "activeIngredientA": "Paracetamol 500mg",
+      "activeIngredientB": "Ibuprofen 400mg",
+      "mechanismA": "مركزي في المخ (تثبيط السنتر الخاص بالحرارة والألم بالمخ)",
+      "mechanismB": "محيطي ومضاد لالتهاب المفاصل والعظام (تثبيط COX-1 و COX-2)",
+      "stomachSafety": "آمن جداً على جدار المعدة ويمكن تناوله على معدة فارغة",
+      "stomachSafetyB": "قد يسبب حرقان أو تهيج للمعدة ويجب تناوله بعد الأكل مباشرة",
+      "onsetSpeedA": "سريع (30 دقيقة)",
+      "onsetSpeedB": "سريع جداً وممتد المفعول (20-30 دقيقة)",
+      "pregnancySafetyA": "الخيار الأول والأأمن طوال فترة الحمل",
+      "pregnancySafetyB": "يحظر استخدامه في الثلث الأخير من الحمل",
+      "recommendation": "استخدم البنادول للصداع والحرارة وآلام الجسم الخفيفة. استخدم البروفين لآلام الأسنان والمفاصل والعظام الحادة والالتهابات."
+    }
+  },
+  "congestal_vs_comtrex": {
+    "drugA": "Congestal",
+    "drugB": "Comtrex",
+    "comparison": {
+      "activeIngredientA": "Paracetamol + Chlorpheniramine + Pseudoephedrine",
+      "activeIngredientB": "Paracetamol + Brompheniramine + Pseudoephedrine",
+      "mechanismA": "علاج البرد والرشح مع مضاد حساسيات قوي بينيم",
+      "mechanismB": "علاج أعراض احتقان الجيوب الأنفية والزكام الشديد",
+      "drowsinessA": "نعاس متوسط إلى شديد",
+      "drowsinessB": "نعاس خفيف إلى متوسط",
+      "hypertensionWarning": "يحذر مع مرضى الضغط المرتفع",
+      "hypertensionWarningB": "يحذر مع مرضى الضغط المرتفع",
+      "recommendation": "كونجستال أسرع في إيقاف الرشح والعطس الشديد قبل النوم. كومتركس ممتاز لاحتقان الجيوب الأنفية والصداع أثناء النهار."
+    }
+  },
+  "antinal_vs_streptoquin": {
+    "drugA": "Antinal (Nifuroxazide)",
+    "drugB": "Streptoquin (Diiodohydroxyquinoline + Phthalylsulfathiazole + Streptomycin)",
+    "comparison": {
+      "activeIngredientA": "Nifuroxazide 200mg (مطهر معوي نقي)",
+      "activeIngredientB": "مركب مضاد للبكتيريا ومضاد للتقلصات مع مشتقات سلفا",
+      "safetyProfileA": "عالي الأمان جداً ولا يمتص للدم، يعمل داخل الأمعاء فقط",
+      "safetyProfileB": "يحتوي على سلفا وقد يسبب حساسية أو تعارضات كلوية",
+      "pregnancySafetyA": "آمن تحت الإشراف الطبي",
+      "pregnancySafetyB": "يحظر في الحمل لمن يعانون من حساسية السلفا أو مشاكل الكلى",
+      "recommendation": "أنتينال هو المطهر المعوي الأأمن للنزلات المعوية العادية والإسهال البكتيري. استربتوكين يفضل في حالات الإسهال المصحوب بمغص شديد وتحت إشراف طبي."
+    }
+  },
+  "nexium_vs_controloc": {
+    "drugA": "Nexium (Esomeprazole)",
+    "drugB": "Controloc (Pantoprazole)",
+    "comparison": {
+      "activeIngredientA": "Esomeprazole 40mg",
+      "activeIngredientB": "Pantoprazole 40mg",
+      "mechanismA": "مثبط مضخة البروتون شديد القوة لحموضة المعدة والارتجاع",
+      "mechanismB": "مثبط مضخة البروتون عالي الأمان والتوافق الدوائي",
+      "drugInteractionsA": "قد يتداخل مع بعض أدوية السيولة مثل بلافيكس",
+      "drugInteractionsB": "أقل أدوية الحموضة تداخلًا مع الأدوية الأخرى (آمن جداً مع بلافيكس)",
+      "recommendation": "نكسيوم يعطي سرعة شفاء أعلى لحالات ارتجاع المريء وقرحة المعدة الشديدة. كونترولوك هو الخيار الأأمن لمرضى القلب والضغط الذين يتناولون أدوية متعددة."
+    }
+  }
+}

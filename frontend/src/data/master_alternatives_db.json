@@ -1,0 +1,745 @@
+{
+  "antinal": {
+    "drugName": "Antinal 200mg Capsules",
+    "drugNameAr": "كبسولات أنتينال 200 مجم (مطهر معوي)",
+    "price_egp": "33.0",
+    "manufacturer": "Amoun Pharmaceutical Co.",
+    "activeIngredient": "Nifuroxazide 200mg (US Equivalent: Ercefuryl / Intetrix)",
+    "purpose": "مطهر معوي واسع المجال لعلاج الإسهال الحاد والمغص والتهابات القناة الهضمية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ercefuryl 200mg Capsules",
+        "nameAr": "إرسيفوريل 200 مجم (المكافئ الأمريكي الأصلي)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Sanofi-Aventis",
+        "notes": "بديل مطابق 100% بنفس المادة الفعالة والتركيز والفاعلية المطهرة للأمعاء."
+      },
+      {
+        "name": "Diax 200mg Capsules",
+        "nameAr": "داياكس 200 مجم (المثيل الأوفر بالسوق المصري)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر: داياكس 200 مجم (بسعر 21 ج.م - توفير 12 ج.م بنفس الفاعلية)."
+      },
+      {
+        "name": "Drotazide 200mg Capsules",
+        "nameAr": "دروتازيد 200 مجم كبسول",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Pharco Pharmaceuticals",
+        "notes": "مثيل مصري معتمد من هيئة الدواء بنفس الفعالية الطبية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Streptoquin Tablets",
+        "nameAr": "سترِبتوكين أقراص (مطهر معوي ومضاد للمغص والإسهال)",
+        "activeIngredient": "Diiodohydroxyquinoline + Phthalylsulfathiazole + Streptomycin",
+        "notes": "بديل علاجي ممتاز ومطهر معوي واسع المجال لعلاج حالات الإسهال الحاد والمغص."
+      },
+      {
+        "name": "Smecta Sachets",
+        "nameAr": "سميكتا أكياس فوار (واقي جدار الأمعاء وموقف للإسهال)",
+        "activeIngredient": "Dioctahedral Smectite",
+        "notes": "بديل علاجي آمن لحماية غشاء الأمعاء ووقف الإسهال بدون مطهرات كيميائية."
+      },
+      {
+        "name": "Flagyl 500mg Tablets",
+        "nameAr": "فلاجيل 500 مجم (مطهر معوي للطفيليات والإسهال)",
+        "activeIngredient": "Metronidazole 500mg",
+        "manufacturer": "Sanofi",
+        "notes": "مطهر معوي واسع المجال لعلاج التهابات وطفيليات الجارديا والأميبا."
+      }
+    ],
+    "pharmacist_recommendation": "يمكنك استخدام كبسولات Diax 200mg لتوفير المال بنفس المادة الفعالة Nifuroxazide 200mg، أو استخدام Streptoquin عند وجود مغص حاد مصاحب للإسهال."
+  },
+  "atorvastatin": {
+    "drugName": "Atorvastatin (Lipitor / Ator)",
+    "drugNameAr": "أتورفاستاتين / أطور / ليبيتور (خافض الكوليسترول)",
+    "price_egp": "80.0",
+    "manufacturer": "Pfizer / EIPICO / EVA Pharma",
+    "activeIngredient": "Atorvastatin Calcium (US Equivalent: Lipitor Pfizer US)",
+    "purpose": "خفض مستوى الكوليسترول الضار (LDL) والدهون الثلاثية والوقاية من تصلب الشرايين والنوبات القلبية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ator 10mg / 20mg / 40mg",
+        "nameAr": "أتور أقراص (إيپيكو مصر)",
+        "activeIngredient": "Atorvastatin Calcium",
+        "manufacturer": "EIPICO",
+        "notes": "بديل مطابق 100% خافض للكوليسترول بنفس المادة الفعالة وبسعر تنافسي ممتاز."
+      },
+      {
+        "name": "Lipona 20mg Tablets",
+        "nameAr": "ليپونا 20 مجم أقراص (إيڤا فارما)",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر بالسوق المصري بنفس المادة الفعالة والجودة."
+      },
+      {
+        "name": "Atorstat 20mg Tablets",
+        "nameAr": "أتورستات 20 مجم أقراص",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "SEDICO",
+        "notes": "مثيل مصري مسجل ومضمون من هيئة الدواء."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Crestor 10mg / 20mg",
+        "nameAr": "كريستور (روزوڤاستاتين - خافض الدهون القوي)",
+        "activeIngredient": "Rosuvastatin Calcium",
+        "notes": "بديل علاجي ممتاز وأقوى في خفض الدهون الثلاثية والكوليسترول الضار بالدم."
+      },
+      {
+        "name": "Zocor 20mg Tablets",
+        "nameAr": "زوكور 20 مجم أقراص (سيمڤاستاتين)",
+        "activeIngredient": "Simvastatin 20mg",
+        "notes": "بديل علاجي من عائلة الستاتين لحماية الشرايين والقلب."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استخدام أتور (Ator EIPICO) أو ليپونا (Lipona EVA) كبدائل مطابقة بنفس المادة الفعالة بأسعار اقتصادية ممتازة."
+  },
+  "augmentin": {
+    "drugName": "Augmentin 1g Tablets",
+    "drugNameAr": "أوجمنتين 1 جرام أقراص (مضاد حيوي واسع المجال)",
+    "price_egp": "99.0",
+    "manufacturer": "GlaxoSmithKline (GSK)",
+    "activeIngredient": "Amoxicillin 875mg + Clavulanic Acid 125mg (US Equivalent: Augmentin US)",
+    "purpose": "مضاد حيوي واسع المجال لعلاج عدوى الحلق والجهاز التنفسي والأذن والمسالك البولية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Hibiotic 1g Tablets",
+        "nameAr": "هاي بيوتك 1 جرام أقراص (أمون)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Amoun Pharmaceutical Co.",
+        "notes": "💡 البديل المطابق الأكثر مبيعاً والأوفر بالسوق المصري بنفس الفاعلية 100%."
+      },
+      {
+        "name": "Curam 1g Tablets",
+        "nameAr": "كيورام 1 جرام أقراص (ساندوز المستوردة)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Sandoz / Novartis",
+        "notes": "بديل مطابق مسجل بجودة أوروبية عالية بنفس التركيز."
+      },
+      {
+        "name": "Megamox 1g Tablets",
+        "nameAr": "ميجاموكس 1 جرام أقراص",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Hikma Pharmaceuticals",
+        "notes": "مثيل مطابق معتمد بنفس التركيبة الثنائية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Zithromax 500mg Tablets",
+        "nameAr": "زيثروماكس 500 مجم (أزيثرومايسين 3 أيام)",
+        "activeIngredient": "Azithromycin 500mg",
+        "notes": "بديل علاجي ممتاز بجرعة يومية واحدة لمدة 3 أيام فقط لالتهابات الحلق والشعب الهوائية."
+      },
+      {
+        "name": "Tavanic 500mg Tablets",
+        "nameAr": "تافانيك 500 مجم أقراص (ليڤوفلوكساسين)",
+        "activeIngredient": "Levofloxacin 500mg",
+        "notes": "بديل علاجي قوي لالتهابات الجهاز التنفسي والجيوب الأنفية والمسالك."
+      }
+    ],
+    "pharmacist_recommendation": "ينصح باستبداله بـ هاي بيوتك 1 جرام (Hibiotic 1g) لتوفير أكثر من 30% من السعر بنفس الفعالية والتركيبة 100%."
+  },
+  "concor": {
+    "drugName": "Concor 5mg / 10mg / 2.5mg",
+    "drugNameAr": "كونكور أقراص (علاج الضغط وتنظيم ضربات القلب)",
+    "price_egp": "40.0",
+    "manufacturer": "Merck Sharp & Dohme (MSD) / Amoun",
+    "activeIngredient": "Bisoprolol Fumarate (US Equivalent: Zebeta US)",
+    "purpose": "علاج ارتفاع ضغط الدم وتنظيم ضربات القلب وتخفيف العبء عن عضلة القلب.",
+    "identicalSubstitutes": [
+      {
+        "name": "Bisoprolol 5mg (EIPICO)",
+        "nameAr": "بيسوبرولول 5 مجم أقراص (إيپيكو)",
+        "activeIngredient": "Bisoprolol Fumarate 5mg",
+        "manufacturer": "EIPICO",
+        "notes": "💡 البديل الأوفر بنفس المادة والتركيز للضغط والقلب."
+      },
+      {
+        "name": "Bisocard 5mg Tablets",
+        "nameAr": "بيسوكارد 5 مجم أقراص",
+        "activeIngredient": "Bisoprolol 5mg",
+        "manufacturer": "Pharco",
+        "notes": "مثيل مصري مسجل بفاعلية عالية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Norvasc 5mg / 10mg (Amlodipine)",
+        "nameAr": "نورڤاسك / أملوديبين (خافض الضغط الشهير)",
+        "activeIngredient": "Amlodipine Besylate 5mg",
+        "notes": "بديل علاجي ممتاز من عائلة غلق قنوات الكالسيوم لخفظ الضغط الشرياني."
+      },
+      {
+        "name": "Cozaar 50mg (Losartan)",
+        "nameAr": "كوزار / لوسارتان 50 مجم",
+        "activeIngredient": "Losartan Potassium 50mg",
+        "notes": "بديل علاجي حامي للكلى والخيار الأول لمرضى السكر والضغط."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استبداله بـ بيسوبرولول (Bisoprolol EIPICO) لتوفير التكلفة مع الانتظام على قياس ضغط الدم."
+  },
+  "ator": {
+    "drugName": "Atorvastatin (Lipitor / Ator)",
+    "drugNameAr": "أتورفاستاتين / أطور / ليبيتور (خافض الكوليسترول)",
+    "price_egp": "80.0",
+    "manufacturer": "Pfizer / EIPICO / EVA Pharma",
+    "activeIngredient": "Atorvastatin Calcium (US Equivalent: Lipitor Pfizer US)",
+    "purpose": "خفض مستوى الكوليسترول الضار (LDL) والدهون الثلاثية والوقاية من تصلب الشرايين والنوبات القلبية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ator 10mg / 20mg / 40mg",
+        "nameAr": "أتور أقراص (إيپيكو مصر)",
+        "activeIngredient": "Atorvastatin Calcium",
+        "manufacturer": "EIPICO",
+        "notes": "بديل مطابق 100% خافض للكوليسترول بنفس المادة الفعالة وبسعر تنافسي ممتاز."
+      },
+      {
+        "name": "Lipona 20mg Tablets",
+        "nameAr": "ليپونا 20 مجم أقراص (إيڤا فارما)",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر بالسوق المصري بنفس المادة الفعالة والجودة."
+      },
+      {
+        "name": "Atorstat 20mg Tablets",
+        "nameAr": "أتورستات 20 مجم أقراص",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "SEDICO",
+        "notes": "مثيل مصري مسجل ومضمون من هيئة الدواء."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Crestor 10mg / 20mg",
+        "nameAr": "كريستور (روزوڤاستاتين - خافض الدهون القوي)",
+        "activeIngredient": "Rosuvastatin Calcium",
+        "notes": "بديل علاجي ممتاز وأقوى في خفض الدهون الثلاثية والكوليسترول الضار بالدم."
+      },
+      {
+        "name": "Zocor 20mg Tablets",
+        "nameAr": "زوكور 20 مجم أقراص (سيمڤاستاتين)",
+        "activeIngredient": "Simvastatin 20mg",
+        "notes": "بديل علاجي من عائلة الستاتين لحماية الشرايين والقلب."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استخدام أتور (Ator EIPICO) أو ليپونا (Lipona EVA) كبدائل مطابقة بنفس المادة الفعالة بأسعار اقتصادية ممتازة."
+  },
+  "lipitor": {
+    "drugName": "Atorvastatin (Lipitor / Ator)",
+    "drugNameAr": "أتورفاستاتين / أطور / ليبيتور (خافض الكوليسترول)",
+    "price_egp": "80.0",
+    "manufacturer": "Pfizer / EIPICO / EVA Pharma",
+    "activeIngredient": "Atorvastatin Calcium (US Equivalent: Lipitor Pfizer US)",
+    "purpose": "خفض مستوى الكوليسترول الضار (LDL) والدهون الثلاثية والوقاية من تصلب الشرايين والنوبات القلبية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ator 10mg / 20mg / 40mg",
+        "nameAr": "أتور أقراص (إيپيكو مصر)",
+        "activeIngredient": "Atorvastatin Calcium",
+        "manufacturer": "EIPICO",
+        "notes": "بديل مطابق 100% خافض للكوليسترول بنفس المادة الفعالة وبسعر تنافسي ممتاز."
+      },
+      {
+        "name": "Lipona 20mg Tablets",
+        "nameAr": "ليپونا 20 مجم أقراص (إيڤا فارما)",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر بالسوق المصري بنفس المادة الفعالة والجودة."
+      },
+      {
+        "name": "Atorstat 20mg Tablets",
+        "nameAr": "أتورستات 20 مجم أقراص",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "SEDICO",
+        "notes": "مثيل مصري مسجل ومضمون من هيئة الدواء."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Crestor 10mg / 20mg",
+        "nameAr": "كريستور (روزوڤاستاتين - خافض الدهون القوي)",
+        "activeIngredient": "Rosuvastatin Calcium",
+        "notes": "بديل علاجي ممتاز وأقوى في خفض الدهون الثلاثية والكوليسترول الضار بالدم."
+      },
+      {
+        "name": "Zocor 20mg Tablets",
+        "nameAr": "زوكور 20 مجم أقراص (سيمڤاستاتين)",
+        "activeIngredient": "Simvastatin 20mg",
+        "notes": "بديل علاجي من عائلة الستاتين لحماية الشرايين والقلب."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استخدام أتور (Ator EIPICO) أو ليپونا (Lipona EVA) كبدائل مطابقة بنفس المادة الفعالة بأسعار اقتصادية ممتازة."
+  },
+  "crestor": {
+    "drugName": "Atorvastatin (Lipitor / Ator)",
+    "drugNameAr": "أتورفاستاتين / أطور / ليبيتور (خافض الكوليسترول)",
+    "price_egp": "80.0",
+    "manufacturer": "Pfizer / EIPICO / EVA Pharma",
+    "activeIngredient": "Atorvastatin Calcium (US Equivalent: Lipitor Pfizer US)",
+    "purpose": "خفض مستوى الكوليسترول الضار (LDL) والدهون الثلاثية والوقاية من تصلب الشرايين والنوبات القلبية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ator 10mg / 20mg / 40mg",
+        "nameAr": "أتور أقراص (إيپيكو مصر)",
+        "activeIngredient": "Atorvastatin Calcium",
+        "manufacturer": "EIPICO",
+        "notes": "بديل مطابق 100% خافض للكوليسترول بنفس المادة الفعالة وبسعر تنافسي ممتاز."
+      },
+      {
+        "name": "Lipona 20mg Tablets",
+        "nameAr": "ليپونا 20 مجم أقراص (إيڤا فارما)",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر بالسوق المصري بنفس المادة الفعالة والجودة."
+      },
+      {
+        "name": "Atorstat 20mg Tablets",
+        "nameAr": "أتورستات 20 مجم أقراص",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "SEDICO",
+        "notes": "مثيل مصري مسجل ومضمون من هيئة الدواء."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Crestor 10mg / 20mg",
+        "nameAr": "كريستور (روزوڤاستاتين - خافض الدهون القوي)",
+        "activeIngredient": "Rosuvastatin Calcium",
+        "notes": "بديل علاجي ممتاز وأقوى في خفض الدهون الثلاثية والكوليسترول الضار بالدم."
+      },
+      {
+        "name": "Zocor 20mg Tablets",
+        "nameAr": "زوكور 20 مجم أقراص (سيمڤاستاتين)",
+        "activeIngredient": "Simvastatin 20mg",
+        "notes": "بديل علاجي من عائلة الستاتين لحماية الشرايين والقلب."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استخدام أتور (Ator EIPICO) أو ليپونا (Lipona EVA) كبدائل مطابقة بنفس المادة الفعالة بأسعار اقتصادية ممتازة."
+  },
+  "rosuvastatin": {
+    "drugName": "Atorvastatin (Lipitor / Ator)",
+    "drugNameAr": "أتورفاستاتين / أطور / ليبيتور (خافض الكوليسترول)",
+    "price_egp": "80.0",
+    "manufacturer": "Pfizer / EIPICO / EVA Pharma",
+    "activeIngredient": "Atorvastatin Calcium (US Equivalent: Lipitor Pfizer US)",
+    "purpose": "خفض مستوى الكوليسترول الضار (LDL) والدهون الثلاثية والوقاية من تصلب الشرايين والنوبات القلبية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ator 10mg / 20mg / 40mg",
+        "nameAr": "أتور أقراص (إيپيكو مصر)",
+        "activeIngredient": "Atorvastatin Calcium",
+        "manufacturer": "EIPICO",
+        "notes": "بديل مطابق 100% خافض للكوليسترول بنفس المادة الفعالة وبسعر تنافسي ممتاز."
+      },
+      {
+        "name": "Lipona 20mg Tablets",
+        "nameAr": "ليپونا 20 مجم أقراص (إيڤا فارما)",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر بالسوق المصري بنفس المادة الفعالة والجودة."
+      },
+      {
+        "name": "Atorstat 20mg Tablets",
+        "nameAr": "أتورستات 20 مجم أقراص",
+        "activeIngredient": "Atorvastatin 20mg",
+        "manufacturer": "SEDICO",
+        "notes": "مثيل مصري مسجل ومضمون من هيئة الدواء."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Crestor 10mg / 20mg",
+        "nameAr": "كريستور (روزوڤاستاتين - خافض الدهون القوي)",
+        "activeIngredient": "Rosuvastatin Calcium",
+        "notes": "بديل علاجي ممتاز وأقوى في خفض الدهون الثلاثية والكوليسترول الضار بالدم."
+      },
+      {
+        "name": "Zocor 20mg Tablets",
+        "nameAr": "زوكور 20 مجم أقراص (سيمڤاستاتين)",
+        "activeIngredient": "Simvastatin 20mg",
+        "notes": "بديل علاجي من عائلة الستاتين لحماية الشرايين والقلب."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استخدام أتور (Ator EIPICO) أو ليپونا (Lipona EVA) كبدائل مطابقة بنفس المادة الفعالة بأسعار اقتصادية ممتازة."
+  },
+  "hibiotic": {
+    "drugName": "Augmentin 1g Tablets",
+    "drugNameAr": "أوجمنتين 1 جرام أقراص (مضاد حيوي واسع المجال)",
+    "price_egp": "99.0",
+    "manufacturer": "GlaxoSmithKline (GSK)",
+    "activeIngredient": "Amoxicillin 875mg + Clavulanic Acid 125mg (US Equivalent: Augmentin US)",
+    "purpose": "مضاد حيوي واسع المجال لعلاج عدوى الحلق والجهاز التنفسي والأذن والمسالك البولية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Hibiotic 1g Tablets",
+        "nameAr": "هاي بيوتك 1 جرام أقراص (أمون)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Amoun Pharmaceutical Co.",
+        "notes": "💡 البديل المطابق الأكثر مبيعاً والأوفر بالسوق المصري بنفس الفاعلية 100%."
+      },
+      {
+        "name": "Curam 1g Tablets",
+        "nameAr": "كيورام 1 جرام أقراص (ساندوز المستوردة)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Sandoz / Novartis",
+        "notes": "بديل مطابق مسجل بجودة أوروبية عالية بنفس التركيز."
+      },
+      {
+        "name": "Megamox 1g Tablets",
+        "nameAr": "ميجاموكس 1 جرام أقراص",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Hikma Pharmaceuticals",
+        "notes": "مثيل مطابق معتمد بنفس التركيبة الثنائية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Zithromax 500mg Tablets",
+        "nameAr": "زيثروماكس 500 مجم (أزيثرومايسين 3 أيام)",
+        "activeIngredient": "Azithromycin 500mg",
+        "notes": "بديل علاجي ممتاز بجرعة يومية واحدة لمدة 3 أيام فقط لالتهابات الحلق والشعب الهوائية."
+      },
+      {
+        "name": "Tavanic 500mg Tablets",
+        "nameAr": "تافانيك 500 مجم أقراص (ليڤوفلوكساسين)",
+        "activeIngredient": "Levofloxacin 500mg",
+        "notes": "بديل علاجي قوي لالتهابات الجهاز التنفسي والجيوب الأنفية والمسالك."
+      }
+    ],
+    "pharmacist_recommendation": "ينصح باستبداله بـ هاي بيوتك 1 جرام (Hibiotic 1g) لتوفير أكثر من 30% من السعر بنفس الفعالية والتركيبة 100%."
+  },
+  "curam": {
+    "drugName": "Augmentin 1g Tablets",
+    "drugNameAr": "أوجمنتين 1 جرام أقراص (مضاد حيوي واسع المجال)",
+    "price_egp": "99.0",
+    "manufacturer": "GlaxoSmithKline (GSK)",
+    "activeIngredient": "Amoxicillin 875mg + Clavulanic Acid 125mg (US Equivalent: Augmentin US)",
+    "purpose": "مضاد حيوي واسع المجال لعلاج عدوى الحلق والجهاز التنفسي والأذن والمسالك البولية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Hibiotic 1g Tablets",
+        "nameAr": "هاي بيوتك 1 جرام أقراص (أمون)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Amoun Pharmaceutical Co.",
+        "notes": "💡 البديل المطابق الأكثر مبيعاً والأوفر بالسوق المصري بنفس الفاعلية 100%."
+      },
+      {
+        "name": "Curam 1g Tablets",
+        "nameAr": "كيورام 1 جرام أقراص (ساندوز المستوردة)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Sandoz / Novartis",
+        "notes": "بديل مطابق مسجل بجودة أوروبية عالية بنفس التركيز."
+      },
+      {
+        "name": "Megamox 1g Tablets",
+        "nameAr": "ميجاموكس 1 جرام أقراص",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Hikma Pharmaceuticals",
+        "notes": "مثيل مطابق معتمد بنفس التركيبة الثنائية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Zithromax 500mg Tablets",
+        "nameAr": "زيثروماكس 500 مجم (أزيثرومايسين 3 أيام)",
+        "activeIngredient": "Azithromycin 500mg",
+        "notes": "بديل علاجي ممتاز بجرعة يومية واحدة لمدة 3 أيام فقط لالتهابات الحلق والشعب الهوائية."
+      },
+      {
+        "name": "Tavanic 500mg Tablets",
+        "nameAr": "تافانيك 500 مجم أقراص (ليڤوفلوكساسين)",
+        "activeIngredient": "Levofloxacin 500mg",
+        "notes": "بديل علاجي قوي لالتهابات الجهاز التنفسي والجيوب الأنفية والمسالك."
+      }
+    ],
+    "pharmacist_recommendation": "ينصح باستبداله بـ هاي بيوتك 1 جرام (Hibiotic 1g) لتوفير أكثر من 30% من السعر بنفس الفعالية والتركيبة 100%."
+  },
+  "megamox": {
+    "drugName": "Augmentin 1g Tablets",
+    "drugNameAr": "أوجمنتين 1 جرام أقراص (مضاد حيوي واسع المجال)",
+    "price_egp": "99.0",
+    "manufacturer": "GlaxoSmithKline (GSK)",
+    "activeIngredient": "Amoxicillin 875mg + Clavulanic Acid 125mg (US Equivalent: Augmentin US)",
+    "purpose": "مضاد حيوي واسع المجال لعلاج عدوى الحلق والجهاز التنفسي والأذن والمسالك البولية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Hibiotic 1g Tablets",
+        "nameAr": "هاي بيوتك 1 جرام أقراص (أمون)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Amoun Pharmaceutical Co.",
+        "notes": "💡 البديل المطابق الأكثر مبيعاً والأوفر بالسوق المصري بنفس الفاعلية 100%."
+      },
+      {
+        "name": "Curam 1g Tablets",
+        "nameAr": "كيورام 1 جرام أقراص (ساندوز المستوردة)",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Sandoz / Novartis",
+        "notes": "بديل مطابق مسجل بجودة أوروبية عالية بنفس التركيز."
+      },
+      {
+        "name": "Megamox 1g Tablets",
+        "nameAr": "ميجاموكس 1 جرام أقراص",
+        "activeIngredient": "Amoxicillin + Clavulanic Acid (1g)",
+        "manufacturer": "Hikma Pharmaceuticals",
+        "notes": "مثيل مطابق معتمد بنفس التركيبة الثنائية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Zithromax 500mg Tablets",
+        "nameAr": "زيثروماكس 500 مجم (أزيثرومايسين 3 أيام)",
+        "activeIngredient": "Azithromycin 500mg",
+        "notes": "بديل علاجي ممتاز بجرعة يومية واحدة لمدة 3 أيام فقط لالتهابات الحلق والشعب الهوائية."
+      },
+      {
+        "name": "Tavanic 500mg Tablets",
+        "nameAr": "تافانيك 500 مجم أقراص (ليڤوفلوكساسين)",
+        "activeIngredient": "Levofloxacin 500mg",
+        "notes": "بديل علاجي قوي لالتهابات الجهاز التنفسي والجيوب الأنفية والمسالك."
+      }
+    ],
+    "pharmacist_recommendation": "ينصح باستبداله بـ هاي بيوتك 1 جرام (Hibiotic 1g) لتوفير أكثر من 30% من السعر بنفس الفعالية والتركيبة 100%."
+  },
+  "ercefuryl": {
+    "drugName": "Antinal 200mg Capsules",
+    "drugNameAr": "كبسولات أنتينال 200 مجم (مطهر معوي)",
+    "price_egp": "33.0",
+    "manufacturer": "Amoun Pharmaceutical Co.",
+    "activeIngredient": "Nifuroxazide 200mg (US Equivalent: Ercefuryl / Intetrix)",
+    "purpose": "مطهر معوي واسع المجال لعلاج الإسهال الحاد والمغص والتهابات القناة الهضمية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ercefuryl 200mg Capsules",
+        "nameAr": "إرسيفوريل 200 مجم (المكافئ الأمريكي الأصلي)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Sanofi-Aventis",
+        "notes": "بديل مطابق 100% بنفس المادة الفعالة والتركيز والفاعلية المطهرة للأمعاء."
+      },
+      {
+        "name": "Diax 200mg Capsules",
+        "nameAr": "داياكس 200 مجم (المثيل الأوفر بالسوق المصري)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر: داياكس 200 مجم (بسعر 21 ج.م - توفير 12 ج.م بنفس الفاعلية)."
+      },
+      {
+        "name": "Drotazide 200mg Capsules",
+        "nameAr": "دروتازيد 200 مجم كبسول",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Pharco Pharmaceuticals",
+        "notes": "مثيل مصري معتمد من هيئة الدواء بنفس الفعالية الطبية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Streptoquin Tablets",
+        "nameAr": "سترِبتوكين أقراص (مطهر معوي ومضاد للمغص والإسهال)",
+        "activeIngredient": "Diiodohydroxyquinoline + Phthalylsulfathiazole + Streptomycin",
+        "notes": "بديل علاجي ممتاز ومطهر معوي واسع المجال لعلاج حالات الإسهال الحاد والمغص."
+      },
+      {
+        "name": "Smecta Sachets",
+        "nameAr": "سميكتا أكياس فوار (واقي جدار الأمعاء وموقف للإسهال)",
+        "activeIngredient": "Dioctahedral Smectite",
+        "notes": "بديل علاجي آمن لحماية غشاء الأمعاء ووقف الإسهال بدون مطهرات كيميائية."
+      },
+      {
+        "name": "Flagyl 500mg Tablets",
+        "nameAr": "فلاجيل 500 مجم (مطهر معوي للطفيليات والإسهال)",
+        "activeIngredient": "Metronidazole 500mg",
+        "manufacturer": "Sanofi",
+        "notes": "مطهر معوي واسع المجال لعلاج التهابات وطفيليات الجارديا والأميبا."
+      }
+    ],
+    "pharmacist_recommendation": "يمكنك استخدام كبسولات Diax 200mg لتوفير المال بنفس المادة الفعالة Nifuroxazide 200mg، أو استخدام Streptoquin عند وجود مغص حاد مصاحب للإسهال."
+  },
+  "diax": {
+    "drugName": "Antinal 200mg Capsules",
+    "drugNameAr": "كبسولات أنتينال 200 مجم (مطهر معوي)",
+    "price_egp": "33.0",
+    "manufacturer": "Amoun Pharmaceutical Co.",
+    "activeIngredient": "Nifuroxazide 200mg (US Equivalent: Ercefuryl / Intetrix)",
+    "purpose": "مطهر معوي واسع المجال لعلاج الإسهال الحاد والمغص والتهابات القناة الهضمية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ercefuryl 200mg Capsules",
+        "nameAr": "إرسيفوريل 200 مجم (المكافئ الأمريكي الأصلي)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Sanofi-Aventis",
+        "notes": "بديل مطابق 100% بنفس المادة الفعالة والتركيز والفاعلية المطهرة للأمعاء."
+      },
+      {
+        "name": "Diax 200mg Capsules",
+        "nameAr": "داياكس 200 مجم (المثيل الأوفر بالسوق المصري)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر: داياكس 200 مجم (بسعر 21 ج.م - توفير 12 ج.م بنفس الفاعلية)."
+      },
+      {
+        "name": "Drotazide 200mg Capsules",
+        "nameAr": "دروتازيد 200 مجم كبسول",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Pharco Pharmaceuticals",
+        "notes": "مثيل مصري معتمد من هيئة الدواء بنفس الفعالية الطبية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Streptoquin Tablets",
+        "nameAr": "سترِبتوكين أقراص (مطهر معوي ومضاد للمغص والإسهال)",
+        "activeIngredient": "Diiodohydroxyquinoline + Phthalylsulfathiazole + Streptomycin",
+        "notes": "بديل علاجي ممتاز ومطهر معوي واسع المجال لعلاج حالات الإسهال الحاد والمغص."
+      },
+      {
+        "name": "Smecta Sachets",
+        "nameAr": "سميكتا أكياس فوار (واقي جدار الأمعاء وموقف للإسهال)",
+        "activeIngredient": "Dioctahedral Smectite",
+        "notes": "بديل علاجي آمن لحماية غشاء الأمعاء ووقف الإسهال بدون مطهرات كيميائية."
+      },
+      {
+        "name": "Flagyl 500mg Tablets",
+        "nameAr": "فلاجيل 500 مجم (مطهر معوي للطفيليات والإسهال)",
+        "activeIngredient": "Metronidazole 500mg",
+        "manufacturer": "Sanofi",
+        "notes": "مطهر معوي واسع المجال لعلاج التهابات وطفيليات الجارديا والأميبا."
+      }
+    ],
+    "pharmacist_recommendation": "يمكنك استخدام كبسولات Diax 200mg لتوفير المال بنفس المادة الفعالة Nifuroxazide 200mg، أو استخدام Streptoquin عند وجود مغص حاد مصاحب للإسهال."
+  },
+  "drotazide": {
+    "drugName": "Antinal 200mg Capsules",
+    "drugNameAr": "كبسولات أنتينال 200 مجم (مطهر معوي)",
+    "price_egp": "33.0",
+    "manufacturer": "Amoun Pharmaceutical Co.",
+    "activeIngredient": "Nifuroxazide 200mg (US Equivalent: Ercefuryl / Intetrix)",
+    "purpose": "مطهر معوي واسع المجال لعلاج الإسهال الحاد والمغص والتهابات القناة الهضمية.",
+    "identicalSubstitutes": [
+      {
+        "name": "Ercefuryl 200mg Capsules",
+        "nameAr": "إرسيفوريل 200 مجم (المكافئ الأمريكي الأصلي)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Sanofi-Aventis",
+        "notes": "بديل مطابق 100% بنفس المادة الفعالة والتركيز والفاعلية المطهرة للأمعاء."
+      },
+      {
+        "name": "Diax 200mg Capsules",
+        "nameAr": "داياكس 200 مجم (المثيل الأوفر بالسوق المصري)",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "EVA Pharma",
+        "notes": "💡 المثيل الأوفر: داياكس 200 مجم (بسعر 21 ج.م - توفير 12 ج.م بنفس الفاعلية)."
+      },
+      {
+        "name": "Drotazide 200mg Capsules",
+        "nameAr": "دروتازيد 200 مجم كبسول",
+        "activeIngredient": "Nifuroxazide 200mg",
+        "manufacturer": "Pharco Pharmaceuticals",
+        "notes": "مثيل مصري معتمد من هيئة الدواء بنفس الفعالية الطبية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Streptoquin Tablets",
+        "nameAr": "سترِبتوكين أقراص (مطهر معوي ومضاد للمغص والإسهال)",
+        "activeIngredient": "Diiodohydroxyquinoline + Phthalylsulfathiazole + Streptomycin",
+        "notes": "بديل علاجي ممتاز ومطهر معوي واسع المجال لعلاج حالات الإسهال الحاد والمغص."
+      },
+      {
+        "name": "Smecta Sachets",
+        "nameAr": "سميكتا أكياس فوار (واقي جدار الأمعاء وموقف للإسهال)",
+        "activeIngredient": "Dioctahedral Smectite",
+        "notes": "بديل علاجي آمن لحماية غشاء الأمعاء ووقف الإسهال بدون مطهرات كيميائية."
+      },
+      {
+        "name": "Flagyl 500mg Tablets",
+        "nameAr": "فلاجيل 500 مجم (مطهر معوي للطفيليات والإسهال)",
+        "activeIngredient": "Metronidazole 500mg",
+        "manufacturer": "Sanofi",
+        "notes": "مطهر معوي واسع المجال لعلاج التهابات وطفيليات الجارديا والأميبا."
+      }
+    ],
+    "pharmacist_recommendation": "يمكنك استخدام كبسولات Diax 200mg لتوفير المال بنفس المادة الفعالة Nifuroxazide 200mg، أو استخدام Streptoquin عند وجود مغص حاد مصاحب للإسهال."
+  },
+  "bisoprolol": {
+    "drugName": "Concor 5mg / 10mg / 2.5mg",
+    "drugNameAr": "كونكور أقراص (علاج الضغط وتنظيم ضربات القلب)",
+    "price_egp": "40.0",
+    "manufacturer": "Merck Sharp & Dohme (MSD) / Amoun",
+    "activeIngredient": "Bisoprolol Fumarate (US Equivalent: Zebeta US)",
+    "purpose": "علاج ارتفاع ضغط الدم وتنظيم ضربات القلب وتخفيف العبء عن عضلة القلب.",
+    "identicalSubstitutes": [
+      {
+        "name": "Bisoprolol 5mg (EIPICO)",
+        "nameAr": "بيسوبرولول 5 مجم أقراص (إيپيكو)",
+        "activeIngredient": "Bisoprolol Fumarate 5mg",
+        "manufacturer": "EIPICO",
+        "notes": "💡 البديل الأوفر بنفس المادة والتركيز للضغط والقلب."
+      },
+      {
+        "name": "Bisocard 5mg Tablets",
+        "nameAr": "بيسوكارد 5 مجم أقراص",
+        "activeIngredient": "Bisoprolol 5mg",
+        "manufacturer": "Pharco",
+        "notes": "مثيل مصري مسجل بفاعلية عالية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Norvasc 5mg / 10mg (Amlodipine)",
+        "nameAr": "نورڤاسك / أملوديبين (خافض الضغط الشهير)",
+        "activeIngredient": "Amlodipine Besylate 5mg",
+        "notes": "بديل علاجي ممتاز من عائلة غلق قنوات الكالسيوم لخفظ الضغط الشرياني."
+      },
+      {
+        "name": "Cozaar 50mg (Losartan)",
+        "nameAr": "كوزار / لوسارتان 50 مجم",
+        "activeIngredient": "Losartan Potassium 50mg",
+        "notes": "بديل علاجي حامي للكلى والخيار الأول لمرضى السكر والضغط."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استبداله بـ بيسوبرولول (Bisoprolol EIPICO) لتوفير التكلفة مع الانتظام على قياس ضغط الدم."
+  },
+  "bisocard": {
+    "drugName": "Concor 5mg / 10mg / 2.5mg",
+    "drugNameAr": "كونكور أقراص (علاج الضغط وتنظيم ضربات القلب)",
+    "price_egp": "40.0",
+    "manufacturer": "Merck Sharp & Dohme (MSD) / Amoun",
+    "activeIngredient": "Bisoprolol Fumarate (US Equivalent: Zebeta US)",
+    "purpose": "علاج ارتفاع ضغط الدم وتنظيم ضربات القلب وتخفيف العبء عن عضلة القلب.",
+    "identicalSubstitutes": [
+      {
+        "name": "Bisoprolol 5mg (EIPICO)",
+        "nameAr": "بيسوبرولول 5 مجم أقراص (إيپيكو)",
+        "activeIngredient": "Bisoprolol Fumarate 5mg",
+        "manufacturer": "EIPICO",
+        "notes": "💡 البديل الأوفر بنفس المادة والتركيز للضغط والقلب."
+      },
+      {
+        "name": "Bisocard 5mg Tablets",
+        "nameAr": "بيسوكارد 5 مجم أقراص",
+        "activeIngredient": "Bisoprolol 5mg",
+        "manufacturer": "Pharco",
+        "notes": "مثيل مصري مسجل بفاعلية عالية."
+      }
+    ],
+    "therapeuticAlternatives": [
+      {
+        "name": "Norvasc 5mg / 10mg (Amlodipine)",
+        "nameAr": "نورڤاسك / أملوديبين (خافض الضغط الشهير)",
+        "activeIngredient": "Amlodipine Besylate 5mg",
+        "notes": "بديل علاجي ممتاز من عائلة غلق قنوات الكالسيوم لخفظ الضغط الشرياني."
+      },
+      {
+        "name": "Cozaar 50mg (Losartan)",
+        "nameAr": "كوزار / لوسارتان 50 مجم",
+        "activeIngredient": "Losartan Potassium 50mg",
+        "notes": "بديل علاجي حامي للكلى والخيار الأول لمرضى السكر والضغط."
+      }
+    ],
+    "pharmacist_recommendation": "يمكن استبداله بـ بيسوبرولول (Bisoprolol EIPICO) لتوفير التكلفة مع الانتظام على قياس ضغط الدم."
+  }
+}
